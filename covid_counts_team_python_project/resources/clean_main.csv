@@ -1,0 +1,1383 @@
+,State,Sex,Age group,COVID-19 Deaths,Total Deaths,Pneumonia Deaths,Pneumonia and COVID-19 Deaths,Influenza Deaths
+0,United States,All Sexes,All Ages,182095.0,1957766.0,186116.0,81691.0,6687.0
+1,United States,All Sexes,Under 1 year,20.0,10876.0,103.0,3.0,16.0
+2,United States,All Sexes,0-17 years,92.0,19295.0,313.0,17.0,123.0
+3,United States,All Sexes,1-4 years,14.0,2083.0,72.0,2.0,42.0
+4,United States,All Sexes,5-14 years,30.0,3226.0,102.0,8.0,52.0
+5,United States,All Sexes,15-24 years,333.0,20786.0,424.0,119.0,53.0
+6,United States,All Sexes,18-29 years,798.0,36946.0,997.0,332.0,100.0
+7,United States,All Sexes,25-34 years,1405.0,42919.0,1555.0,626.0,151.0
+8,United States,All Sexes,30-49 years,8360.0,128909.0,7781.0,3743.0,565.0
+9,United States,All Sexes,35-44 years,3675.0,60673.0,3506.0,1619.0,247.0
+10,United States,All Sexes,45-54 years,9694.0,111610.0,9089.0,4510.0,577.0
+11,United States,All Sexes,50-64 years,29055.0,322794.0,30099.0,13986.0,1588.0
+12,United States,All Sexes,55-64 years,23134.0,255771.0,24339.0,11191.0,1238.0
+13,United States,All Sexes,65-74 years,39129.0,387801.0,41218.0,18788.0,1450.0
+14,United States,All Sexes,75-84 years,48136.0,473523.0,50803.0,22276.0,1476.0
+15,United States,All Sexes,85 years and over,56525.0,588498.0,54905.0,22549.0,1385.0
+16,United States,Male,Under 1 year,13.0,6006.0,65.0,2.0,8.0
+17,United States,Male,0-17 years,55.0,11327.0,177.0,11.0,64.0
+18,United States,Male,1-4 years,7.0,1213.0,36.0,1.0,25.0
+19,United States,Male,5-14 years,21.0,1911.0,53.0,7.0,23.0
+20,United States,Male,15-24 years,207.0,15398.0,265.0,74.0,27.0
+21,United States,Male,18-29 years,521.0,27110.0,615.0,204.0,53.0
+22,United States,Male,25-34 years,934.0,30289.0,962.0,406.0,76.0
+23,United States,Male,30-49 years,5735.0,84586.0,4928.0,2577.0,304.0
+24,United States,Male,35-44 years,2514.0,40013.0,2225.0,1106.0,132.0
+25,United States,Male,45-54 years,6619.0,70196.0,5698.0,3092.0,342.0
+26,United States,Male,50-64 years,19037.0,199545.0,18425.0,9114.0,916.0
+27,United States,Male,55-64 years,15033.0,157542.0,14841.0,7218.0,704.0
+28,United States,Male,65-74 years,24088.0,225437.0,24778.0,11639.0,810.0
+29,United States,Male,75-84 years,26451.0,246115.0,28409.0,12553.0,733.0
+30,United States,Male,85 years and over,22496.0,227149.0,24513.0,9916.0,565.0
+31,United States,Male,All Ages,98383.0,1021269.0,101845.0,46014.0,3445.0
+32,United States,Female,Under 1 year,7.0,4852.0,38.0,1.0,8.0
+33,United States,Female,0-17 years,37.0,7949.0,136.0,6.0,59.0
+34,United States,Female,1-4 years,7.0,870.0,36.0,1.0,17.0
+35,United States,Female,5-14 years,9.0,1315.0,49.0,1.0,29.0
+36,United States,Female,15-24 years,126.0,5387.0,159.0,45.0,26.0
+37,United States,Female,18-29 years,277.0,9836.0,382.0,128.0,47.0
+38,United States,Female,25-34 years,471.0,12628.0,593.0,220.0,75.0
+39,United States,Female,30-49 years,2625.0,44317.0,2853.0,1166.0,261.0
+40,United States,Female,35-44 years,1161.0,20657.0,1281.0,513.0,115.0
+41,United States,Female,45-54 years,3074.0,41411.0,3390.0,1417.0,235.0
+42,United States,Female,50-64 years,10017.0,123240.0,11672.0,4871.0,671.0
+43,United States,Female,55-64 years,8101.0,98222.0,9497.0,3973.0,533.0
+44,United States,Female,65-74 years,15040.0,162354.0,16439.0,7148.0,640.0
+45,United States,Female,75-84 years,21684.0,227398.0,22393.0,9722.0,743.0
+46,United States,Female,85 years and over,34028.0,361331.0,30391.0,12632.0,820.0
+47,United States,Female,All Ages,83708.0,936425.0,84266.0,35673.0,3241.0
+48,United States,Unknown,Under 1 year,0.0,18.0,0.0,0.0,0.0
+49,United States,Unknown,0-17 years,0.0,19.0,0.0,0.0,0.0
+50,United States,Unknown,1-4 years,0.0,0.0,0.0,0.0,0.0
+51,United States,Unknown,5-14 years,0.0,0.0,0.0,0.0,0.0
+52,United States,Unknown,15-24 years,0.0,1.0,0.0,0.0,0.0
+53,United States,Unknown,18-29 years,0.0,0.0,0.0,0.0,0.0
+54,United States,Unknown,25-34 years,0.0,2.0,0.0,0.0,0.0
+55,United States,Unknown,30-49 years,0.0,6.0,0.0,0.0,0.0
+56,United States,Unknown,35-44 years,0.0,3.0,0.0,0.0,0.0
+57,United States,Unknown,45-54 years,1.0,3.0,1.0,1.0,0.0
+58,United States,Unknown,50-64 years,1.0,9.0,2.0,1.0,1.0
+59,United States,Unknown,55-64 years,0.0,7.0,1.0,0.0,1.0
+60,United States,Unknown,65-74 years,1.0,10.0,1.0,1.0,0.0
+61,United States,Unknown,75-84 years,1.0,10.0,1.0,1.0,0.0
+62,United States,Unknown,85 years and over,1.0,18.0,1.0,1.0,0.0
+63,United States,Unknown,All Ages,4.0,72.0,5.0,4.0,1.0
+66,Alabama,Male,1-4 years,0.0,22.0,0.0,0.0,0.0
+74,Alabama,Male,50-64 years,290.0,4074.0,279.0,90.0,21.0
+75,Alabama,Male,55-64 years,224.0,3208.0,230.0,71.0,16.0
+76,Alabama,Male,65-74 years,415.0,4426.0,408.0,140.0,17.0
+79,Alabama,Male,All Ages,1501.0,18665.0,1468.0,501.0,60.0
+80,Alabama,Female,Under 1 year,0.0,84.0,0.0,0.0,0.0
+90,Alabama,Female,50-64 years,229.0,2729.0,253.0,69.0,13.0
+92,Alabama,Female,65-74 years,307.0,3355.0,270.0,106.0,12.0
+95,Alabama,Female,All Ages,1431.0,17397.0,1295.0,455.0,40.0
+96,Alabama,Unknown,Under 1 year,0.0,0.0,0.0,0.0,0.0
+97,Alabama,Unknown,0-17 years,0.0,0.0,0.0,0.0,0.0
+98,Alabama,Unknown,1-4 years,0.0,0.0,0.0,0.0,0.0
+99,Alabama,Unknown,5-14 years,0.0,0.0,0.0,0.0,0.0
+100,Alabama,Unknown,15-24 years,0.0,0.0,0.0,0.0,0.0
+101,Alabama,Unknown,18-29 years,0.0,0.0,0.0,0.0,0.0
+102,Alabama,Unknown,25-34 years,0.0,0.0,0.0,0.0,0.0
+103,Alabama,Unknown,30-49 years,0.0,0.0,0.0,0.0,0.0
+104,Alabama,Unknown,35-44 years,0.0,0.0,0.0,0.0,0.0
+105,Alabama,Unknown,45-54 years,0.0,0.0,0.0,0.0,0.0
+106,Alabama,Unknown,50-64 years,0.0,0.0,0.0,0.0,0.0
+107,Alabama,Unknown,55-64 years,0.0,0.0,0.0,0.0,0.0
+108,Alabama,Unknown,65-74 years,0.0,0.0,0.0,0.0,0.0
+109,Alabama,Unknown,75-84 years,0.0,0.0,0.0,0.0,0.0
+110,Alabama,Unknown,85 years and over,0.0,0.0,0.0,0.0,0.0
+111,Alabama,Unknown,All Ages,0.0,0.0,0.0,0.0,0.0
+112,Alabama,All Sexes,All Ages,2932.0,36062.0,2763.0,956.0,100.0
+113,Alaska,Male,Under 1 year,0.0,11.0,0.0,0.0,0.0
+114,Alaska,Male,0-17 years,0.0,30.0,0.0,0.0,0.0
+116,Alaska,Male,5-14 years,0.0,11.0,0.0,0.0,0.0
+117,Alaska,Male,15-24 years,0.0,53.0,0.0,0.0,0.0
+118,Alaska,Male,18-29 years,0.0,81.0,0.0,0.0,0.0
+129,Alaska,Female,Under 1 year,0.0,10.0,0.0,0.0,0.0
+145,Alaska,Unknown,Under 1 year,0.0,0.0,0.0,0.0,0.0
+146,Alaska,Unknown,0-17 years,0.0,0.0,0.0,0.0,0.0
+147,Alaska,Unknown,1-4 years,0.0,0.0,0.0,0.0,0.0
+148,Alaska,Unknown,5-14 years,0.0,0.0,0.0,0.0,0.0
+149,Alaska,Unknown,15-24 years,0.0,0.0,0.0,0.0,0.0
+150,Alaska,Unknown,18-29 years,0.0,0.0,0.0,0.0,0.0
+151,Alaska,Unknown,25-34 years,0.0,0.0,0.0,0.0,0.0
+152,Alaska,Unknown,30-49 years,0.0,0.0,0.0,0.0,0.0
+153,Alaska,Unknown,35-44 years,0.0,0.0,0.0,0.0,0.0
+154,Alaska,Unknown,45-54 years,0.0,0.0,0.0,0.0,0.0
+155,Alaska,Unknown,50-64 years,0.0,0.0,0.0,0.0,0.0
+156,Alaska,Unknown,55-64 years,0.0,0.0,0.0,0.0,0.0
+157,Alaska,Unknown,65-74 years,0.0,0.0,0.0,0.0,0.0
+158,Alaska,Unknown,75-84 years,0.0,0.0,0.0,0.0,0.0
+159,Alaska,Unknown,85 years and over,0.0,0.0,0.0,0.0,0.0
+160,Alaska,Unknown,All Ages,0.0,0.0,0.0,0.0,0.0
+172,Arizona,Male,50-64 years,622.0,4697.0,588.0,368.0,17.0
+173,Arizona,Male,55-64 years,476.0,3679.0,469.0,283.0,13.0
+174,Arizona,Male,65-74 years,649.0,5530.0,726.0,406.0,14.0
+175,Arizona,Male,75-84 years,722.0,6378.0,818.0,430.0,12.0
+176,Arizona,Male,85 years and over,512.0,5305.0,547.0,261.0,10.0
+177,Arizona,Male,All Ages,2770.0,25414.0,2888.0,1607.0,61.0
+181,Arizona,Female,5-14 years,0.0,37.0,0.0,0.0,0.0
+188,Arizona,Female,50-64 years,330.0,2834.0,352.0,192.0,13.0
+189,Arizona,Female,55-64 years,278.0,2277.0,292.0,164.0,10.0
+190,Arizona,Female,65-74 years,441.0,3918.0,497.0,268.0,16.0
+191,Arizona,Female,75-84 years,538.0,5424.0,607.0,316.0,10.0
+193,Arizona,Female,All Ages,2041.0,21082.0,2180.0,1138.0,54.0
+194,Arizona,Unknown,Under 1 year,0.0,0.0,0.0,0.0,0.0
+195,Arizona,Unknown,0-17 years,0.0,0.0,0.0,0.0,0.0
+196,Arizona,Unknown,1-4 years,0.0,0.0,0.0,0.0,0.0
+197,Arizona,Unknown,5-14 years,0.0,0.0,0.0,0.0,0.0
+198,Arizona,Unknown,15-24 years,0.0,0.0,0.0,0.0,0.0
+199,Arizona,Unknown,18-29 years,0.0,0.0,0.0,0.0,0.0
+200,Arizona,Unknown,25-34 years,0.0,0.0,0.0,0.0,0.0
+201,Arizona,Unknown,30-49 years,0.0,0.0,0.0,0.0,0.0
+202,Arizona,Unknown,35-44 years,0.0,0.0,0.0,0.0,0.0
+203,Arizona,Unknown,45-54 years,0.0,0.0,0.0,0.0,0.0
+204,Arizona,Unknown,50-64 years,0.0,0.0,0.0,0.0,0.0
+205,Arizona,Unknown,55-64 years,0.0,0.0,0.0,0.0,0.0
+206,Arizona,Unknown,65-74 years,0.0,0.0,0.0,0.0,0.0
+207,Arizona,Unknown,75-84 years,0.0,0.0,0.0,0.0,0.0
+208,Arizona,Unknown,85 years and over,0.0,0.0,0.0,0.0,0.0
+209,Arizona,Unknown,All Ages,0.0,0.0,0.0,0.0,0.0
+210,Arizona,All Sexes,All Ages,4811.0,46496.0,5068.0,2745.0,115.0
+214,Arkansas,Male,5-14 years,0.0,27.0,0.0,0.0,0.0
+221,Arkansas,Male,50-64 years,115.0,2343.0,197.0,63.0,14.0
+222,Arkansas,Male,55-64 years,91.0,1908.0,159.0,50.0,12.0
+223,Arkansas,Male,65-74 years,123.0,2744.0,207.0,58.0,11.0
+226,Arkansas,Male,All Ages,526.0,11169.0,915.0,252.0,41.0
+230,Arkansas,Female,5-14 years,0.0,14.0,0.0,0.0,0.0
+239,Arkansas,Female,65-74 years,75.0,1956.0,157.0,30.0,10.0
+242,Arkansas,Female,All Ages,452.0,10095.0,753.0,173.0,36.0
+243,Arkansas,Unknown,Under 1 year,0.0,0.0,0.0,0.0,0.0
+244,Arkansas,Unknown,0-17 years,0.0,0.0,0.0,0.0,0.0
+245,Arkansas,Unknown,1-4 years,0.0,0.0,0.0,0.0,0.0
+246,Arkansas,Unknown,5-14 years,0.0,0.0,0.0,0.0,0.0
+247,Arkansas,Unknown,15-24 years,0.0,0.0,0.0,0.0,0.0
+248,Arkansas,Unknown,18-29 years,0.0,0.0,0.0,0.0,0.0
+249,Arkansas,Unknown,25-34 years,0.0,0.0,0.0,0.0,0.0
+250,Arkansas,Unknown,30-49 years,0.0,0.0,0.0,0.0,0.0
+251,Arkansas,Unknown,35-44 years,0.0,0.0,0.0,0.0,0.0
+252,Arkansas,Unknown,45-54 years,0.0,0.0,0.0,0.0,0.0
+253,Arkansas,Unknown,50-64 years,0.0,0.0,0.0,0.0,0.0
+254,Arkansas,Unknown,55-64 years,0.0,0.0,0.0,0.0,0.0
+255,Arkansas,Unknown,65-74 years,0.0,0.0,0.0,0.0,0.0
+256,Arkansas,Unknown,75-84 years,0.0,0.0,0.0,0.0,0.0
+257,Arkansas,Unknown,85 years and over,0.0,0.0,0.0,0.0,0.0
+258,Arkansas,Unknown,All Ages,0.0,0.0,0.0,0.0,0.0
+259,Arkansas,All Sexes,All Ages,978.0,21264.0,1668.0,425.0,77.0
+267,California,Male,30-49 years,638.0,8485.0,658.0,366.0,24.0
+268,California,Male,35-44 years,285.0,4074.0,298.0,160.0,10.0
+269,California,Male,45-54 years,696.0,6879.0,709.0,389.0,33.0
+270,California,Male,50-64 years,1847.0,19014.0,2065.0,1070.0,94.0
+271,California,Male,55-64 years,1444.0,14873.0,1650.0,852.0,71.0
+272,California,Male,65-74 years,1951.0,20500.0,2508.0,1154.0,64.0
+273,California,Male,75-84 years,1849.0,22377.0,2756.0,1106.0,58.0
+274,California,Male,85 years and over,1641.0,23980.0,2611.0,884.0,52.0
+275,California,Male,All Ages,7979.0,98365.0,10692.0,4599.0,306.0
+282,California,Female,25-34 years,44.0,1132.0,67.0,23.0,10.0
+283,California,Female,30-49 years,245.0,3980.0,316.0,130.0,24.0
+284,California,Female,35-44 years,118.0,1867.0,150.0,64.0,10.0
+285,California,Female,45-54 years,279.0,3804.0,356.0,158.0,22.0
+286,California,Female,50-64 years,788.0,10891.0,1102.0,463.0,59.0
+287,California,Female,55-64 years,607.0,8565.0,876.0,358.0,46.0
+288,California,Female,65-74 years,1040.0,13937.0,1509.0,628.0,48.0
+289,California,Female,75-84 years,1431.0,20046.0,2076.0,788.0,69.0
+290,California,Female,85 years and over,2226.0,35367.0,3127.0,1080.0,63.0
+291,California,Female,All Ages,5762.0,85900.0,8194.0,3104.0,274.0
+294,California,Unknown,1-4 years,0.0,0.0,0.0,0.0,0.0
+295,California,Unknown,5-14 years,0.0,0.0,0.0,0.0,0.0
+296,California,Unknown,15-24 years,0.0,0.0,0.0,0.0,0.0
+297,California,Unknown,18-29 years,0.0,0.0,0.0,0.0,0.0
+300,California,Unknown,35-44 years,0.0,0.0,0.0,0.0,0.0
+301,California,Unknown,45-54 years,0.0,0.0,0.0,0.0,0.0
+302,California,Unknown,50-64 years,0.0,0.0,0.0,0.0,0.0
+303,California,Unknown,55-64 years,0.0,0.0,0.0,0.0,0.0
+304,California,Unknown,65-74 years,0.0,0.0,0.0,0.0,0.0
+305,California,Unknown,75-84 years,0.0,0.0,0.0,0.0,0.0
+306,California,Unknown,85 years and over,0.0,0.0,0.0,0.0,0.0
+308,California,All Sexes,All Ages,13741.0,184267.0,18886.0,7703.0,580.0
+312,Colorado,Male,5-14 years,0.0,40.0,0.0,0.0,0.0
+319,Colorado,Male,50-64 years,170.0,2799.0,218.0,90.0,14.0
+320,Colorado,Male,55-64 years,135.0,2176.0,175.0,70.0,10.0
+321,Colorado,Male,65-74 years,238.0,3129.0,319.0,139.0,10.0
+323,Colorado,Male,85 years and over,300.0,3189.0,302.0,144.0,10.0
+324,Colorado,Male,All Ages,1074.0,14765.0,1274.0,577.0,47.0
+335,Colorado,Female,50-64 years,66.0,1654.0,128.0,40.0,14.0
+336,Colorado,Female,55-64 years,48.0,1279.0,99.0,30.0,11.0
+339,Colorado,Female,85 years and over,394.0,4957.0,398.0,190.0,13.0
+340,Colorado,Female,All Ages,831.0,12797.0,1002.0,405.0,48.0
+343,Colorado,Unknown,1-4 years,0.0,0.0,0.0,0.0,0.0
+344,Colorado,Unknown,5-14 years,0.0,0.0,0.0,0.0,0.0
+345,Colorado,Unknown,15-24 years,0.0,0.0,0.0,0.0,0.0
+346,Colorado,Unknown,18-29 years,0.0,0.0,0.0,0.0,0.0
+347,Colorado,Unknown,25-34 years,0.0,0.0,0.0,0.0,0.0
+348,Colorado,Unknown,30-49 years,0.0,0.0,0.0,0.0,0.0
+349,Colorado,Unknown,35-44 years,0.0,0.0,0.0,0.0,0.0
+350,Colorado,Unknown,45-54 years,0.0,0.0,0.0,0.0,0.0
+351,Colorado,Unknown,50-64 years,0.0,0.0,0.0,0.0,0.0
+352,Colorado,Unknown,55-64 years,0.0,0.0,0.0,0.0,0.0
+353,Colorado,Unknown,65-74 years,0.0,0.0,0.0,0.0,0.0
+354,Colorado,Unknown,75-84 years,0.0,0.0,0.0,0.0,0.0
+355,Colorado,Unknown,85 years and over,0.0,0.0,0.0,0.0,0.0
+357,Colorado,All Sexes,All Ages,1905.0,27563.0,2276.0,982.0,95.0
+358,Connecticut,Male,Under 1 year,0.0,40.0,0.0,0.0,0.0
+370,Connecticut,Male,65-74 years,455.0,2051.0,206.0,116.0,11.0
+373,Connecticut,Male,All Ages,2109.0,10460.0,975.0,501.0,35.0
+387,Connecticut,Female,75-84 years,577.0,2474.0,245.0,134.0,12.0
+388,Connecticut,Female,85 years and over,1255.0,5116.0,410.0,216.0,12.0
+389,Connecticut,Female,All Ages,2294.0,10559.0,888.0,456.0,37.0
+392,Connecticut,Unknown,1-4 years,0.0,0.0,0.0,0.0,0.0
+393,Connecticut,Unknown,5-14 years,0.0,0.0,0.0,0.0,0.0
+394,Connecticut,Unknown,15-24 years,0.0,0.0,0.0,0.0,0.0
+395,Connecticut,Unknown,18-29 years,0.0,0.0,0.0,0.0,0.0
+396,Connecticut,Unknown,25-34 years,0.0,0.0,0.0,0.0,0.0
+399,Connecticut,Unknown,45-54 years,0.0,0.0,0.0,0.0,0.0
+406,Connecticut,All Sexes,All Ages,4403.0,21038.0,1864.0,957.0,73.0
+407,Delaware,Male,Under 1 year,0.0,15.0,0.0,0.0,0.0
+417,Delaware,Male,50-64 years,40.0,574.0,39.0,21.0,0.0
+418,Delaware,Male,55-64 years,33.0,449.0,31.0,17.0,0.0
+423,Delaware,Female,Under 1 year,0.0,20.0,0.0,0.0,0.0
+438,Delaware,Female,All Ages,295.0,3150.0,248.0,104.0,11.0
+439,Delaware,Unknown,Under 1 year,0.0,0.0,0.0,0.0,0.0
+440,Delaware,Unknown,0-17 years,0.0,0.0,0.0,0.0,0.0
+441,Delaware,Unknown,1-4 years,0.0,0.0,0.0,0.0,0.0
+442,Delaware,Unknown,5-14 years,0.0,0.0,0.0,0.0,0.0
+443,Delaware,Unknown,15-24 years,0.0,0.0,0.0,0.0,0.0
+444,Delaware,Unknown,18-29 years,0.0,0.0,0.0,0.0,0.0
+445,Delaware,Unknown,25-34 years,0.0,0.0,0.0,0.0,0.0
+446,Delaware,Unknown,30-49 years,0.0,0.0,0.0,0.0,0.0
+447,Delaware,Unknown,35-44 years,0.0,0.0,0.0,0.0,0.0
+448,Delaware,Unknown,45-54 years,0.0,0.0,0.0,0.0,0.0
+449,Delaware,Unknown,50-64 years,0.0,0.0,0.0,0.0,0.0
+450,Delaware,Unknown,55-64 years,0.0,0.0,0.0,0.0,0.0
+451,Delaware,Unknown,65-74 years,0.0,0.0,0.0,0.0,0.0
+452,Delaware,Unknown,75-84 years,0.0,0.0,0.0,0.0,0.0
+453,Delaware,Unknown,85 years and over,0.0,0.0,0.0,0.0,0.0
+454,Delaware,Unknown,All Ages,0.0,0.0,0.0,0.0,0.0
+455,Delaware,All Sexes,All Ages,557.0,6313.0,473.0,217.0,16.0
+469,District of Columbia,Male,75-84 years,90.0,438.0,118.0,87.0,0.0
+479,District of Columbia,Female,30-49 years,14.0,136.0,21.0,14.0,0.0
+481,District of Columbia,Female,45-54 years,21.0,136.0,28.0,21.0,0.0
+482,District of Columbia,Female,50-64 years,63.0,412.0,81.0,59.0,0.0
+483,District of Columbia,Female,55-64 years,50.0,328.0,65.0,46.0,0.0
+485,District of Columbia,Female,75-84 years,64.0,390.0,92.0,62.0,0.0
+486,District of Columbia,Female,85 years and over,88.0,606.0,114.0,86.0,0.0
+488,District of Columbia,Unknown,Under 1 year,0.0,0.0,0.0,0.0,0.0
+489,District of Columbia,Unknown,0-17 years,0.0,0.0,0.0,0.0,0.0
+490,District of Columbia,Unknown,1-4 years,0.0,0.0,0.0,0.0,0.0
+491,District of Columbia,Unknown,5-14 years,0.0,0.0,0.0,0.0,0.0
+492,District of Columbia,Unknown,15-24 years,0.0,0.0,0.0,0.0,0.0
+493,District of Columbia,Unknown,18-29 years,0.0,0.0,0.0,0.0,0.0
+494,District of Columbia,Unknown,25-34 years,0.0,0.0,0.0,0.0,0.0
+495,District of Columbia,Unknown,30-49 years,0.0,0.0,0.0,0.0,0.0
+496,District of Columbia,Unknown,35-44 years,0.0,0.0,0.0,0.0,0.0
+497,District of Columbia,Unknown,45-54 years,0.0,0.0,0.0,0.0,0.0
+498,District of Columbia,Unknown,50-64 years,0.0,0.0,0.0,0.0,0.0
+499,District of Columbia,Unknown,55-64 years,0.0,0.0,0.0,0.0,0.0
+500,District of Columbia,Unknown,65-74 years,0.0,0.0,0.0,0.0,0.0
+501,District of Columbia,Unknown,75-84 years,0.0,0.0,0.0,0.0,0.0
+502,District of Columbia,Unknown,85 years and over,0.0,0.0,0.0,0.0,0.0
+503,District of Columbia,Unknown,All Ages,0.0,0.0,0.0,0.0,0.0
+512,Florida,Male,30-49 years,322.0,5861.0,328.0,173.0,22.0
+514,Florida,Male,45-54 years,375.0,4774.0,387.0,202.0,20.0
+515,Florida,Male,50-64 years,1166.0,14147.0,1312.0,643.0,40.0
+516,Florida,Male,55-64 years,938.0,11242.0,1064.0,523.0,31.0
+517,Florida,Male,65-74 years,1654.0,16941.0,2003.0,926.0,40.0
+518,Florida,Male,75-84 years,2065.0,20341.0,2468.0,1116.0,39.0
+519,Florida,Male,85 years and over,1782.0,19131.0,2103.0,923.0,21.0
+520,Florida,Male,All Ages,7023.0,79009.0,8275.0,3797.0,169.0
+528,Florida,Female,30-49 years,172.0,3168.0,218.0,94.0,18.0
+530,Florida,Female,45-54 years,174.0,2775.0,219.0,88.0,13.0
+531,Florida,Female,50-64 years,581.0,8540.0,803.0,308.0,30.0
+532,Florida,Female,55-64 years,476.0,6857.0,670.0,258.0,24.0
+533,Florida,Female,65-74 years,1059.0,11668.0,1288.0,577.0,39.0
+534,Florida,Female,75-84 years,1588.0,17071.0,1775.0,829.0,37.0
+535,Florida,Female,85 years and over,2201.0,27144.0,2226.0,1002.0,31.0
+536,Florida,Female,All Ages,5621.0,68837.0,6348.0,2820.0,160.0
+537,Florida,Unknown,Under 1 year,0.0,0.0,0.0,0.0,0.0
+538,Florida,Unknown,0-17 years,0.0,0.0,0.0,0.0,0.0
+539,Florida,Unknown,1-4 years,0.0,0.0,0.0,0.0,0.0
+540,Florida,Unknown,5-14 years,0.0,0.0,0.0,0.0,0.0
+541,Florida,Unknown,15-24 years,0.0,0.0,0.0,0.0,0.0
+542,Florida,Unknown,18-29 years,0.0,0.0,0.0,0.0,0.0
+543,Florida,Unknown,25-34 years,0.0,0.0,0.0,0.0,0.0
+546,Florida,Unknown,45-54 years,0.0,0.0,0.0,0.0,0.0
+547,Florida,Unknown,50-64 years,0.0,0.0,0.0,0.0,0.0
+548,Florida,Unknown,55-64 years,0.0,0.0,0.0,0.0,0.0
+549,Florida,Unknown,65-74 years,0.0,0.0,0.0,0.0,0.0
+550,Florida,Unknown,75-84 years,0.0,0.0,0.0,0.0,0.0
+552,Florida,Unknown,All Ages,0.0,10.0,0.0,0.0,0.0
+553,Florida,All Sexes,All Ages,12644.0,147856.0,14623.0,6617.0,329.0
+564,Georgia,Male,50-64 years,555.0,6539.0,542.0,258.0,14.0
+565,Georgia,Male,55-64 years,439.0,5199.0,438.0,201.0,10.0
+566,Georgia,Male,65-74 years,734.0,7229.0,721.0,363.0,11.0
+567,Georgia,Male,75-84 years,760.0,7162.0,797.0,381.0,11.0
+569,Georgia,Male,All Ages,2714.0,29966.0,2717.0,1294.0,51.0
+570,Georgia,Female,Under 1 year,0.0,150.0,0.0,0.0,0.0
+580,Georgia,Female,50-64 years,371.0,4452.0,405.0,169.0,14.0
+581,Georgia,Female,55-64 years,308.0,3501.0,322.0,137.0,13.0
+582,Georgia,Female,65-74 years,525.0,5468.0,484.0,243.0,13.0
+583,Georgia,Female,75-84 years,668.0,6997.0,626.0,307.0,15.0
+585,Georgia,Female,All Ages,2488.0,28205.0,2336.0,1089.0,62.0
+586,Georgia,Unknown,Under 1 year,0.0,0.0,0.0,0.0,0.0
+587,Georgia,Unknown,0-17 years,0.0,0.0,0.0,0.0,0.0
+588,Georgia,Unknown,1-4 years,0.0,0.0,0.0,0.0,0.0
+589,Georgia,Unknown,5-14 years,0.0,0.0,0.0,0.0,0.0
+590,Georgia,Unknown,15-24 years,0.0,0.0,0.0,0.0,0.0
+591,Georgia,Unknown,18-29 years,0.0,0.0,0.0,0.0,0.0
+592,Georgia,Unknown,25-34 years,0.0,0.0,0.0,0.0,0.0
+593,Georgia,Unknown,30-49 years,0.0,0.0,0.0,0.0,0.0
+594,Georgia,Unknown,35-44 years,0.0,0.0,0.0,0.0,0.0
+595,Georgia,Unknown,45-54 years,0.0,0.0,0.0,0.0,0.0
+596,Georgia,Unknown,50-64 years,0.0,0.0,0.0,0.0,0.0
+597,Georgia,Unknown,55-64 years,0.0,0.0,0.0,0.0,0.0
+598,Georgia,Unknown,65-74 years,0.0,0.0,0.0,0.0,0.0
+599,Georgia,Unknown,75-84 years,0.0,0.0,0.0,0.0,0.0
+600,Georgia,Unknown,85 years and over,0.0,0.0,0.0,0.0,0.0
+601,Georgia,Unknown,All Ages,0.0,0.0,0.0,0.0,0.0
+602,Georgia,All Sexes,All Ages,5202.0,58171.0,5053.0,2383.0,113.0
+603,Hawaii,Male,Under 1 year,0.0,18.0,0.0,0.0,0.0
+610,Hawaii,Male,30-49 years,0.0,298.0,11.0,0.0,0.0
+618,Hawaii,Male,All Ages,54.0,3900.0,243.0,27.0,14.0
+623,Hawaii,Female,15-24 years,0.0,16.0,0.0,0.0,0.0
+635,Hawaii,Unknown,Under 1 year,0.0,0.0,0.0,0.0,0.0
+636,Hawaii,Unknown,0-17 years,0.0,0.0,0.0,0.0,0.0
+637,Hawaii,Unknown,1-4 years,0.0,0.0,0.0,0.0,0.0
+638,Hawaii,Unknown,5-14 years,0.0,0.0,0.0,0.0,0.0
+639,Hawaii,Unknown,15-24 years,0.0,0.0,0.0,0.0,0.0
+640,Hawaii,Unknown,18-29 years,0.0,0.0,0.0,0.0,0.0
+641,Hawaii,Unknown,25-34 years,0.0,0.0,0.0,0.0,0.0
+642,Hawaii,Unknown,30-49 years,0.0,0.0,0.0,0.0,0.0
+643,Hawaii,Unknown,35-44 years,0.0,0.0,0.0,0.0,0.0
+644,Hawaii,Unknown,45-54 years,0.0,0.0,0.0,0.0,0.0
+645,Hawaii,Unknown,50-64 years,0.0,0.0,0.0,0.0,0.0
+646,Hawaii,Unknown,55-64 years,0.0,0.0,0.0,0.0,0.0
+647,Hawaii,Unknown,65-74 years,0.0,0.0,0.0,0.0,0.0
+648,Hawaii,Unknown,75-84 years,0.0,0.0,0.0,0.0,0.0
+649,Hawaii,Unknown,85 years and over,0.0,0.0,0.0,0.0,0.0
+650,Hawaii,Unknown,All Ages,0.0,0.0,0.0,0.0,0.0
+651,Hawaii,All Sexes,All Ages,86.0,7227.0,434.0,39.0,20.0
+652,Idaho,Male,Under 1 year,0.0,39.0,0.0,0.0,0.0
+656,Idaho,Male,15-24 years,0.0,84.0,0.0,0.0,0.0
+657,Idaho,Male,18-29 years,0.0,118.0,0.0,0.0,0.0
+658,Idaho,Male,25-34 years,0.0,118.0,0.0,0.0,0.0
+667,Idaho,Male,All Ages,229.0,4915.0,284.0,90.0,13.0
+668,Idaho,Female,Under 1 year,0.0,28.0,0.0,0.0,0.0
+669,Idaho,Female,0-17 years,0.0,51.0,0.0,0.0,0.0
+674,Idaho,Female,25-34 years,0.0,64.0,0.0,0.0,0.0
+683,Idaho,Female,All Ages,173.0,4408.0,232.0,58.0,12.0
+684,Idaho,Unknown,Under 1 year,0.0,0.0,0.0,0.0,0.0
+685,Idaho,Unknown,0-17 years,0.0,0.0,0.0,0.0,0.0
+686,Idaho,Unknown,1-4 years,0.0,0.0,0.0,0.0,0.0
+687,Idaho,Unknown,5-14 years,0.0,0.0,0.0,0.0,0.0
+688,Idaho,Unknown,15-24 years,0.0,0.0,0.0,0.0,0.0
+689,Idaho,Unknown,18-29 years,0.0,0.0,0.0,0.0,0.0
+690,Idaho,Unknown,25-34 years,0.0,0.0,0.0,0.0,0.0
+691,Idaho,Unknown,30-49 years,0.0,0.0,0.0,0.0,0.0
+692,Idaho,Unknown,35-44 years,0.0,0.0,0.0,0.0,0.0
+693,Idaho,Unknown,45-54 years,0.0,0.0,0.0,0.0,0.0
+694,Idaho,Unknown,50-64 years,0.0,0.0,0.0,0.0,0.0
+695,Idaho,Unknown,55-64 years,0.0,0.0,0.0,0.0,0.0
+696,Idaho,Unknown,65-74 years,0.0,0.0,0.0,0.0,0.0
+697,Idaho,Unknown,75-84 years,0.0,0.0,0.0,0.0,0.0
+698,Idaho,Unknown,85 years and over,0.0,0.0,0.0,0.0,0.0
+699,Idaho,Unknown,All Ages,0.0,0.0,0.0,0.0,0.0
+700,Idaho,All Sexes,All Ages,402.0,9323.0,516.0,148.0,25.0
+711,Illinois,Male,50-64 years,803.0,7813.0,737.0,407.0,17.0
+712,Illinois,Male,55-64 years,617.0,6206.0,580.0,320.0,15.0
+713,Illinois,Male,65-74 years,1029.0,8589.0,1016.0,555.0,15.0
+714,Illinois,Male,75-84 years,1061.0,9088.0,1143.0,563.0,19.0
+715,Illinois,Male,85 years and over,871.0,8832.0,1002.0,420.0,14.0
+716,Illinois,Male,All Ages,4070.0,39170.0,4119.0,2072.0,72.0
+719,Illinois,Female,1-4 years,0.0,29.0,0.0,0.0,0.0
+727,Illinois,Female,50-64 years,410.0,4692.0,465.0,215.0,18.0
+728,Illinois,Female,55-64 years,327.0,3781.0,381.0,175.0,16.0
+729,Illinois,Female,65-74 years,573.0,6178.0,642.0,305.0,15.0
+730,Illinois,Female,75-84 years,820.0,8785.0,944.0,403.0,27.0
+731,Illinois,Female,85 years and over,1454.0,14996.0,1383.0,602.0,39.0
+732,Illinois,Female,All Ages,3378.0,36856.0,3568.0,1581.0,107.0
+735,Illinois,Unknown,1-4 years,0.0,0.0,0.0,0.0,0.0
+736,Illinois,Unknown,5-14 years,0.0,0.0,0.0,0.0,0.0
+737,Illinois,Unknown,15-24 years,0.0,0.0,0.0,0.0,0.0
+738,Illinois,Unknown,18-29 years,0.0,0.0,0.0,0.0,0.0
+739,Illinois,Unknown,25-34 years,0.0,0.0,0.0,0.0,0.0
+740,Illinois,Unknown,30-49 years,0.0,0.0,0.0,0.0,0.0
+741,Illinois,Unknown,35-44 years,0.0,0.0,0.0,0.0,0.0
+742,Illinois,Unknown,45-54 years,0.0,0.0,0.0,0.0,0.0
+743,Illinois,Unknown,50-64 years,0.0,0.0,0.0,0.0,0.0
+744,Illinois,Unknown,55-64 years,0.0,0.0,0.0,0.0,0.0
+745,Illinois,Unknown,65-74 years,0.0,0.0,0.0,0.0,0.0
+746,Illinois,Unknown,75-84 years,0.0,0.0,0.0,0.0,0.0
+747,Illinois,Unknown,85 years and over,0.0,0.0,0.0,0.0,0.0
+749,Illinois,All Sexes,All Ages,7448.0,76027.0,7687.0,3653.0,179.0
+753,Indiana,Male,5-14 years,0.0,53.0,0.0,0.0,0.0
+760,Indiana,Male,50-64 years,237.0,4435.0,361.0,115.0,13.0
+761,Indiana,Male,55-64 years,202.0,3548.0,299.0,99.0,11.0
+762,Indiana,Male,65-74 years,444.0,5152.0,550.0,217.0,13.0
+763,Indiana,Male,75-84 years,481.0,5505.0,651.0,221.0,16.0
+764,Indiana,Male,85 years and over,463.0,4760.0,513.0,198.0,12.0
+765,Indiana,Male,All Ages,1680.0,22523.0,2173.0,776.0,61.0
+776,Indiana,Female,50-64 years,146.0,2981.0,276.0,75.0,16.0
+777,Indiana,Female,55-64 years,120.0,2419.0,229.0,62.0,12.0
+778,Indiana,Female,65-74 years,276.0,3845.0,386.0,124.0,13.0
+779,Indiana,Female,75-84 years,475.0,5359.0,533.0,194.0,15.0
+780,Indiana,Female,85 years and over,729.0,8034.0,616.0,207.0,24.0
+781,Indiana,Female,All Ages,1662.0,21586.0,1875.0,619.0,72.0
+782,Indiana,Unknown,Under 1 year,0.0,0.0,0.0,0.0,0.0
+783,Indiana,Unknown,0-17 years,0.0,0.0,0.0,0.0,0.0
+784,Indiana,Unknown,1-4 years,0.0,0.0,0.0,0.0,0.0
+785,Indiana,Unknown,5-14 years,0.0,0.0,0.0,0.0,0.0
+786,Indiana,Unknown,15-24 years,0.0,0.0,0.0,0.0,0.0
+787,Indiana,Unknown,18-29 years,0.0,0.0,0.0,0.0,0.0
+788,Indiana,Unknown,25-34 years,0.0,0.0,0.0,0.0,0.0
+789,Indiana,Unknown,30-49 years,0.0,0.0,0.0,0.0,0.0
+790,Indiana,Unknown,35-44 years,0.0,0.0,0.0,0.0,0.0
+791,Indiana,Unknown,45-54 years,0.0,0.0,0.0,0.0,0.0
+792,Indiana,Unknown,50-64 years,0.0,0.0,0.0,0.0,0.0
+793,Indiana,Unknown,55-64 years,0.0,0.0,0.0,0.0,0.0
+794,Indiana,Unknown,65-74 years,0.0,0.0,0.0,0.0,0.0
+795,Indiana,Unknown,75-84 years,0.0,0.0,0.0,0.0,0.0
+796,Indiana,Unknown,85 years and over,0.0,0.0,0.0,0.0,0.0
+797,Indiana,Unknown,All Ages,0.0,0.0,0.0,0.0,0.0
+798,Indiana,All Sexes,All Ages,3342.0,44109.0,4048.0,1395.0,133.0
+814,Iowa,Male,All Ages,626.0,9902.0,720.0,188.0,33.0
+827,Iowa,Female,65-74 years,94.0,1543.0,109.0,29.0,12.0
+828,Iowa,Female,75-84 years,137.0,2251.0,175.0,42.0,12.0
+829,Iowa,Female,85 years and over,242.0,4340.0,268.0,52.0,21.0
+830,Iowa,Female,All Ages,557.0,9621.0,646.0,158.0,51.0
+833,Iowa,Unknown,1-4 years,0.0,0.0,0.0,0.0,0.0
+834,Iowa,Unknown,5-14 years,0.0,0.0,0.0,0.0,0.0
+835,Iowa,Unknown,15-24 years,0.0,0.0,0.0,0.0,0.0
+836,Iowa,Unknown,18-29 years,0.0,0.0,0.0,0.0,0.0
+837,Iowa,Unknown,25-34 years,0.0,0.0,0.0,0.0,0.0
+838,Iowa,Unknown,30-49 years,0.0,0.0,0.0,0.0,0.0
+839,Iowa,Unknown,35-44 years,0.0,0.0,0.0,0.0,0.0
+840,Iowa,Unknown,45-54 years,0.0,0.0,0.0,0.0,0.0
+841,Iowa,Unknown,50-64 years,0.0,0.0,0.0,0.0,0.0
+842,Iowa,Unknown,55-64 years,0.0,0.0,0.0,0.0,0.0
+843,Iowa,Unknown,65-74 years,0.0,0.0,0.0,0.0,0.0
+844,Iowa,Unknown,75-84 years,0.0,0.0,0.0,0.0,0.0
+845,Iowa,Unknown,85 years and over,0.0,0.0,0.0,0.0,0.0
+847,Iowa,All Sexes,All Ages,1183.0,19524.0,1366.0,346.0,84.0
+851,Kansas,Male,5-14 years,0.0,16.0,0.0,0.0,0.0
+861,Kansas,Male,75-84 years,90.0,2104.0,151.0,38.0,13.0
+863,Kansas,Male,All Ages,328.0,8841.0,606.0,143.0,42.0
+864,Kansas,Female,Under 1 year,0.0,45.0,0.0,0.0,0.0
+877,Kansas,Female,75-84 years,54.0,1878.0,117.0,27.0,15.0
+878,Kansas,Female,85 years and over,112.0,3326.0,214.0,39.0,13.0
+879,Kansas,Female,All Ages,249.0,8157.0,511.0,98.0,47.0
+882,Kansas,Unknown,1-4 years,0.0,0.0,0.0,0.0,0.0
+883,Kansas,Unknown,5-14 years,0.0,0.0,0.0,0.0,0.0
+884,Kansas,Unknown,15-24 years,0.0,0.0,0.0,0.0,0.0
+885,Kansas,Unknown,18-29 years,0.0,0.0,0.0,0.0,0.0
+886,Kansas,Unknown,25-34 years,0.0,0.0,0.0,0.0,0.0
+887,Kansas,Unknown,30-49 years,0.0,0.0,0.0,0.0,0.0
+888,Kansas,Unknown,35-44 years,0.0,0.0,0.0,0.0,0.0
+889,Kansas,Unknown,45-54 years,0.0,0.0,0.0,0.0,0.0
+890,Kansas,Unknown,50-64 years,0.0,0.0,0.0,0.0,0.0
+891,Kansas,Unknown,55-64 years,0.0,0.0,0.0,0.0,0.0
+892,Kansas,Unknown,65-74 years,0.0,0.0,0.0,0.0,0.0
+893,Kansas,Unknown,75-84 years,0.0,0.0,0.0,0.0,0.0
+894,Kansas,Unknown,85 years and over,0.0,0.0,0.0,0.0,0.0
+896,Kansas,All Sexes,All Ages,577.0,16999.0,1117.0,241.0,89.0
+897,Kentucky,Male,Under 1 year,0.0,72.0,0.0,0.0,0.0
+898,Kentucky,Male,0-17 years,0.0,171.0,0.0,0.0,0.0
+899,Kentucky,Male,1-4 years,0.0,19.0,0.0,0.0,0.0
+900,Kentucky,Male,5-14 years,0.0,29.0,0.0,0.0,0.0
+907,Kentucky,Male,50-64 years,81.0,3509.0,266.0,39.0,11.0
+909,Kentucky,Male,65-74 years,150.0,3636.0,374.0,77.0,12.0
+910,Kentucky,Male,75-84 years,118.0,3565.0,405.0,63.0,11.0
+911,Kentucky,Male,85 years and over,101.0,2626.0,290.0,51.0,11.0
+912,Kentucky,Male,All Ages,476.0,15503.0,1417.0,243.0,49.0
+915,Kentucky,Female,1-4 years,0.0,11.0,0.0,0.0,0.0
+916,Kentucky,Female,5-14 years,0.0,22.0,0.0,0.0,0.0
+923,Kentucky,Female,50-64 years,60.0,2320.0,190.0,34.0,14.0
+924,Kentucky,Female,55-64 years,50.0,1836.0,152.0,29.0,13.0
+925,Kentucky,Female,65-74 years,90.0,2792.0,269.0,42.0,13.0
+927,Kentucky,Female,85 years and over,249.0,4486.0,396.0,90.0,12.0
+928,Kentucky,Female,All Ages,553.0,14326.0,1271.0,245.0,51.0
+931,Kentucky,Unknown,1-4 years,0.0,0.0,0.0,0.0,0.0
+932,Kentucky,Unknown,5-14 years,0.0,0.0,0.0,0.0,0.0
+933,Kentucky,Unknown,15-24 years,0.0,0.0,0.0,0.0,0.0
+934,Kentucky,Unknown,18-29 years,0.0,0.0,0.0,0.0,0.0
+935,Kentucky,Unknown,25-34 years,0.0,0.0,0.0,0.0,0.0
+936,Kentucky,Unknown,30-49 years,0.0,0.0,0.0,0.0,0.0
+937,Kentucky,Unknown,35-44 years,0.0,0.0,0.0,0.0,0.0
+938,Kentucky,Unknown,45-54 years,0.0,0.0,0.0,0.0,0.0
+939,Kentucky,Unknown,50-64 years,0.0,0.0,0.0,0.0,0.0
+940,Kentucky,Unknown,55-64 years,0.0,0.0,0.0,0.0,0.0
+941,Kentucky,Unknown,65-74 years,0.0,0.0,0.0,0.0,0.0
+942,Kentucky,Unknown,75-84 years,0.0,0.0,0.0,0.0,0.0
+943,Kentucky,Unknown,85 years and over,0.0,0.0,0.0,0.0,0.0
+945,Kentucky,All Sexes,All Ages,1029.0,29830.0,2688.0,488.0,100.0
+946,Louisiana,Male,Under 1 year,0.0,110.0,0.0,0.0,0.0
+958,Louisiana,Male,65-74 years,594.0,4006.0,498.0,309.0,11.0
+961,Louisiana,Male,All Ages,2331.0,16860.0,1825.0,1157.0,34.0
+968,Louisiana,Female,25-34 years,17.0,254.0,18.0,10.0,0.0
+972,Louisiana,Female,50-64 years,322.0,2420.0,268.0,165.0,10.0
+977,Louisiana,Female,All Ages,2080.0,15624.0,1585.0,1000.0,40.0
+978,Louisiana,Unknown,Under 1 year,0.0,0.0,0.0,0.0,0.0
+979,Louisiana,Unknown,0-17 years,0.0,0.0,0.0,0.0,0.0
+980,Louisiana,Unknown,1-4 years,0.0,0.0,0.0,0.0,0.0
+981,Louisiana,Unknown,5-14 years,0.0,0.0,0.0,0.0,0.0
+982,Louisiana,Unknown,15-24 years,0.0,0.0,0.0,0.0,0.0
+983,Louisiana,Unknown,18-29 years,0.0,0.0,0.0,0.0,0.0
+984,Louisiana,Unknown,25-34 years,0.0,0.0,0.0,0.0,0.0
+985,Louisiana,Unknown,30-49 years,0.0,0.0,0.0,0.0,0.0
+986,Louisiana,Unknown,35-44 years,0.0,0.0,0.0,0.0,0.0
+987,Louisiana,Unknown,45-54 years,0.0,0.0,0.0,0.0,0.0
+988,Louisiana,Unknown,50-64 years,0.0,0.0,0.0,0.0,0.0
+989,Louisiana,Unknown,55-64 years,0.0,0.0,0.0,0.0,0.0
+990,Louisiana,Unknown,65-74 years,0.0,0.0,0.0,0.0,0.0
+991,Louisiana,Unknown,75-84 years,0.0,0.0,0.0,0.0,0.0
+992,Louisiana,Unknown,85 years and over,0.0,0.0,0.0,0.0,0.0
+993,Louisiana,Unknown,All Ages,0.0,0.0,0.0,0.0,0.0
+994,Louisiana,All Sexes,All Ages,4411.0,32484.0,3410.0,2157.0,74.0
+995,Maine,Male,Under 1 year,0.0,20.0,0.0,0.0,0.0
+996,Maine,Male,0-17 years,0.0,44.0,0.0,0.0,0.0
+999,Maine,Male,15-24 years,0.0,59.0,0.0,0.0,0.0
+1010,Maine,Male,All Ages,70.0,4954.0,342.0,18.0,16.0
+1011,Maine,Female,Under 1 year,0.0,20.0,0.0,0.0,0.0
+1015,Maine,Female,15-24 years,0.0,13.0,0.0,0.0,0.0
+1026,Maine,Female,All Ages,79.0,4445.0,260.0,14.0,15.0
+1027,Maine,Unknown,Under 1 year,0.0,0.0,0.0,0.0,0.0
+1028,Maine,Unknown,0-17 years,0.0,0.0,0.0,0.0,0.0
+1029,Maine,Unknown,1-4 years,0.0,0.0,0.0,0.0,0.0
+1030,Maine,Unknown,5-14 years,0.0,0.0,0.0,0.0,0.0
+1031,Maine,Unknown,15-24 years,0.0,0.0,0.0,0.0,0.0
+1032,Maine,Unknown,18-29 years,0.0,0.0,0.0,0.0,0.0
+1033,Maine,Unknown,25-34 years,0.0,0.0,0.0,0.0,0.0
+1034,Maine,Unknown,30-49 years,0.0,0.0,0.0,0.0,0.0
+1035,Maine,Unknown,35-44 years,0.0,0.0,0.0,0.0,0.0
+1036,Maine,Unknown,45-54 years,0.0,0.0,0.0,0.0,0.0
+1037,Maine,Unknown,50-64 years,0.0,0.0,0.0,0.0,0.0
+1038,Maine,Unknown,55-64 years,0.0,0.0,0.0,0.0,0.0
+1039,Maine,Unknown,65-74 years,0.0,0.0,0.0,0.0,0.0
+1040,Maine,Unknown,75-84 years,0.0,0.0,0.0,0.0,0.0
+1041,Maine,Unknown,85 years and over,0.0,0.0,0.0,0.0,0.0
+1042,Maine,Unknown,All Ages,0.0,0.0,0.0,0.0,0.0
+1043,Maine,All Sexes,All Ages,149.0,9399.0,602.0,32.0,31.0
+1054,Maryland,Male,50-64 years,402.0,3761.0,333.0,158.0,14.0
+1055,Maryland,Male,55-64 years,321.0,3006.0,264.0,121.0,12.0
+1057,Maryland,Male,75-84 years,592.0,4246.0,552.0,240.0,14.0
+1058,Maryland,Male,85 years and over,494.0,4126.0,493.0,171.0,17.0
+1059,Maryland,Male,All Ages,2099.0,18487.0,1894.0,807.0,60.0
+1060,Maryland,Female,Under 1 year,0.0,85.0,0.0,0.0,0.0
+1070,Maryland,Female,50-64 years,238.0,2389.0,210.0,90.0,14.0
+1071,Maryland,Female,55-64 years,184.0,1898.0,168.0,72.0,13.0
+1072,Maryland,Female,65-74 years,358.0,3054.0,337.0,156.0,15.0
+1073,Maryland,Female,75-84 years,531.0,4226.0,430.0,193.0,18.0
+1074,Maryland,Female,85 years and over,832.0,6937.0,646.0,244.0,16.0
+1075,Maryland,Female,All Ages,2017.0,17805.0,1688.0,701.0,66.0
+1076,Maryland,Unknown,Under 1 year,0.0,0.0,0.0,0.0,0.0
+1077,Maryland,Unknown,0-17 years,0.0,0.0,0.0,0.0,0.0
+1078,Maryland,Unknown,1-4 years,0.0,0.0,0.0,0.0,0.0
+1079,Maryland,Unknown,5-14 years,0.0,0.0,0.0,0.0,0.0
+1080,Maryland,Unknown,15-24 years,0.0,0.0,0.0,0.0,0.0
+1081,Maryland,Unknown,18-29 years,0.0,0.0,0.0,0.0,0.0
+1082,Maryland,Unknown,25-34 years,0.0,0.0,0.0,0.0,0.0
+1083,Maryland,Unknown,30-49 years,0.0,0.0,0.0,0.0,0.0
+1084,Maryland,Unknown,35-44 years,0.0,0.0,0.0,0.0,0.0
+1085,Maryland,Unknown,45-54 years,0.0,0.0,0.0,0.0,0.0
+1086,Maryland,Unknown,50-64 years,0.0,0.0,0.0,0.0,0.0
+1087,Maryland,Unknown,55-64 years,0.0,0.0,0.0,0.0,0.0
+1088,Maryland,Unknown,65-74 years,0.0,0.0,0.0,0.0,0.0
+1089,Maryland,Unknown,75-84 years,0.0,0.0,0.0,0.0,0.0
+1090,Maryland,Unknown,85 years and over,0.0,0.0,0.0,0.0,0.0
+1091,Maryland,Unknown,All Ages,0.0,0.0,0.0,0.0,0.0
+1092,Maryland,All Sexes,All Ages,4116.0,36292.0,3582.0,1508.0,126.0
+1095,Massachusetts,Male,1-4 years,0.0,10.0,0.0,0.0,0.0
+1096,Massachusetts,Male,5-14 years,0.0,17.0,0.0,0.0,0.0
+1103,Massachusetts,Male,50-64 years,403.0,3717.0,333.0,179.0,21.0
+1104,Massachusetts,Male,55-64 years,340.0,2937.0,290.0,156.0,17.0
+1105,Massachusetts,Male,65-74 years,727.0,4421.0,567.0,288.0,18.0
+1106,Massachusetts,Male,75-84 years,1138.0,5445.0,830.0,452.0,25.0
+1107,Massachusetts,Male,85 years and over,1374.0,6132.0,945.0,515.0,20.0
+1108,Massachusetts,Male,All Ages,3728.0,21809.0,2738.0,1463.0,91.0
+1109,Massachusetts,Female,Under 1 year,0.0,64.0,0.0,0.0,0.0
+1111,Massachusetts,Female,1-4 years,0.0,10.0,0.0,0.0,0.0
+1119,Massachusetts,Female,50-64 years,248.0,2172.0,194.0,105.0,10.0
+1121,Massachusetts,Female,65-74 years,495.0,3187.0,379.0,206.0,11.0
+1122,Massachusetts,Female,75-84 years,1058.0,5249.0,699.0,382.0,19.0
+1123,Massachusetts,Female,85 years and over,2435.0,10589.0,1255.0,682.0,30.0
+1124,Massachusetts,Female,All Ages,4277.0,22189.0,2561.0,1392.0,73.0
+1125,Massachusetts,Unknown,Under 1 year,0.0,0.0,0.0,0.0,0.0
+1126,Massachusetts,Unknown,0-17 years,0.0,0.0,0.0,0.0,0.0
+1127,Massachusetts,Unknown,1-4 years,0.0,0.0,0.0,0.0,0.0
+1128,Massachusetts,Unknown,5-14 years,0.0,0.0,0.0,0.0,0.0
+1129,Massachusetts,Unknown,15-24 years,0.0,0.0,0.0,0.0,0.0
+1130,Massachusetts,Unknown,18-29 years,0.0,0.0,0.0,0.0,0.0
+1131,Massachusetts,Unknown,25-34 years,0.0,0.0,0.0,0.0,0.0
+1132,Massachusetts,Unknown,30-49 years,0.0,0.0,0.0,0.0,0.0
+1133,Massachusetts,Unknown,35-44 years,0.0,0.0,0.0,0.0,0.0
+1134,Massachusetts,Unknown,45-54 years,0.0,0.0,0.0,0.0,0.0
+1135,Massachusetts,Unknown,50-64 years,0.0,0.0,0.0,0.0,0.0
+1136,Massachusetts,Unknown,55-64 years,0.0,0.0,0.0,0.0,0.0
+1137,Massachusetts,Unknown,65-74 years,0.0,0.0,0.0,0.0,0.0
+1138,Massachusetts,Unknown,75-84 years,0.0,0.0,0.0,0.0,0.0
+1139,Massachusetts,Unknown,85 years and over,0.0,0.0,0.0,0.0,0.0
+1140,Massachusetts,Unknown,All Ages,0.0,0.0,0.0,0.0,0.0
+1141,Massachusetts,All Sexes,All Ages,8005.0,43998.0,5299.0,2855.0,164.0
+1149,Michigan,Male,30-49 years,169.0,2646.0,144.0,81.0,10.0
+1151,Michigan,Male,45-54 years,221.0,2411.0,192.0,114.0,12.0
+1152,Michigan,Male,50-64 years,587.0,6894.0,597.0,296.0,28.0
+1153,Michigan,Male,55-64 years,456.0,5448.0,484.0,230.0,19.0
+1154,Michigan,Male,65-74 years,849.0,7905.0,884.0,433.0,36.0
+1155,Michigan,Male,75-84 years,881.0,8556.0,994.0,450.0,22.0
+1156,Michigan,Male,85 years and over,688.0,8015.0,788.0,334.0,18.0
+1157,Michigan,Male,All Ages,3187.0,35200.0,3431.0,1600.0,117.0
+1167,Michigan,Female,45-54 years,120.0,1401.0,117.0,63.0,10.0
+1168,Michigan,Female,50-64 years,352.0,4266.0,402.0,191.0,34.0
+1169,Michigan,Female,55-64 years,285.0,3403.0,329.0,153.0,25.0
+1170,Michigan,Female,65-74 years,606.0,5920.0,644.0,312.0,30.0
+1171,Michigan,Female,75-84 years,727.0,7970.0,765.0,351.0,29.0
+1172,Michigan,Female,85 years and over,1108.0,12951.0,1043.0,453.0,23.0
+1173,Michigan,Female,All Ages,2899.0,33173.0,2967.0,1355.0,125.0
+1176,Michigan,Unknown,1-4 years,0.0,0.0,0.0,0.0,0.0
+1177,Michigan,Unknown,5-14 years,0.0,0.0,0.0,0.0,0.0
+1178,Michigan,Unknown,15-24 years,0.0,0.0,0.0,0.0,0.0
+1179,Michigan,Unknown,18-29 years,0.0,0.0,0.0,0.0,0.0
+1180,Michigan,Unknown,25-34 years,0.0,0.0,0.0,0.0,0.0
+1181,Michigan,Unknown,30-49 years,0.0,0.0,0.0,0.0,0.0
+1182,Michigan,Unknown,35-44 years,0.0,0.0,0.0,0.0,0.0
+1183,Michigan,Unknown,45-54 years,0.0,0.0,0.0,0.0,0.0
+1184,Michigan,Unknown,50-64 years,0.0,0.0,0.0,0.0,0.0
+1185,Michigan,Unknown,55-64 years,0.0,0.0,0.0,0.0,0.0
+1187,Michigan,Unknown,75-84 years,0.0,0.0,0.0,0.0,0.0
+1190,Michigan,All Sexes,All Ages,6087.0,68377.0,6399.0,2956.0,242.0
+1191,Minnesota,Male,Under 1 year,0.0,102.0,0.0,0.0,0.0
+1201,Minnesota,Male,50-64 years,125.0,2557.0,152.0,47.0,13.0
+1203,Minnesota,Male,65-74 years,175.0,3036.0,220.0,64.0,15.0
+1204,Minnesota,Male,75-84 years,258.0,3663.0,315.0,71.0,14.0
+1205,Minnesota,Male,85 years and over,310.0,4173.0,345.0,75.0,12.0
+1206,Minnesota,Male,All Ages,896.0,14859.0,1084.0,268.0,59.0
+1217,Minnesota,Female,50-64 years,59.0,1555.0,108.0,19.0,16.0
+1218,Minnesota,Female,55-64 years,47.0,1233.0,90.0,17.0,14.0
+1219,Minnesota,Female,65-74 years,142.0,2237.0,175.0,54.0,13.0
+1220,Minnesota,Female,75-84 years,236.0,3519.0,267.0,69.0,11.0
+1221,Minnesota,Female,85 years and over,489.0,6454.0,444.0,105.0,16.0
+1222,Minnesota,Female,All Ages,943.0,14547.0,1030.0,251.0,62.0
+1223,Minnesota,Unknown,Under 1 year,0.0,0.0,0.0,0.0,0.0
+1224,Minnesota,Unknown,0-17 years,0.0,0.0,0.0,0.0,0.0
+1225,Minnesota,Unknown,1-4 years,0.0,0.0,0.0,0.0,0.0
+1226,Minnesota,Unknown,5-14 years,0.0,0.0,0.0,0.0,0.0
+1227,Minnesota,Unknown,15-24 years,0.0,0.0,0.0,0.0,0.0
+1228,Minnesota,Unknown,18-29 years,0.0,0.0,0.0,0.0,0.0
+1229,Minnesota,Unknown,25-34 years,0.0,0.0,0.0,0.0,0.0
+1230,Minnesota,Unknown,30-49 years,0.0,0.0,0.0,0.0,0.0
+1231,Minnesota,Unknown,35-44 years,0.0,0.0,0.0,0.0,0.0
+1232,Minnesota,Unknown,45-54 years,0.0,0.0,0.0,0.0,0.0
+1233,Minnesota,Unknown,50-64 years,0.0,0.0,0.0,0.0,0.0
+1234,Minnesota,Unknown,55-64 years,0.0,0.0,0.0,0.0,0.0
+1235,Minnesota,Unknown,65-74 years,0.0,0.0,0.0,0.0,0.0
+1236,Minnesota,Unknown,75-84 years,0.0,0.0,0.0,0.0,0.0
+1237,Minnesota,Unknown,85 years and over,0.0,0.0,0.0,0.0,0.0
+1238,Minnesota,Unknown,All Ages,0.0,0.0,0.0,0.0,0.0
+1239,Minnesota,All Sexes,All Ages,1839.0,29406.0,2114.0,519.0,121.0
+1240,Mississippi,Male,Under 1 year,0.0,66.0,0.0,0.0,0.0
+1242,Mississippi,Male,1-4 years,0.0,24.0,0.0,0.0,0.0
+1255,Mississippi,Male,All Ages,1235.0,11967.0,1439.0,659.0,31.0
+1256,Mississippi,Female,Under 1 year,0.0,52.0,0.0,0.0,0.0
+1271,Mississippi,Female,All Ages,1243.0,10956.0,1304.0,615.0,24.0
+1272,Mississippi,Unknown,Under 1 year,0.0,0.0,0.0,0.0,0.0
+1273,Mississippi,Unknown,0-17 years,0.0,0.0,0.0,0.0,0.0
+1274,Mississippi,Unknown,1-4 years,0.0,0.0,0.0,0.0,0.0
+1275,Mississippi,Unknown,5-14 years,0.0,0.0,0.0,0.0,0.0
+1276,Mississippi,Unknown,15-24 years,0.0,0.0,0.0,0.0,0.0
+1277,Mississippi,Unknown,18-29 years,0.0,0.0,0.0,0.0,0.0
+1278,Mississippi,Unknown,25-34 years,0.0,0.0,0.0,0.0,0.0
+1279,Mississippi,Unknown,30-49 years,0.0,0.0,0.0,0.0,0.0
+1280,Mississippi,Unknown,35-44 years,0.0,0.0,0.0,0.0,0.0
+1281,Mississippi,Unknown,45-54 years,0.0,0.0,0.0,0.0,0.0
+1282,Mississippi,Unknown,50-64 years,0.0,0.0,0.0,0.0,0.0
+1283,Mississippi,Unknown,55-64 years,0.0,0.0,0.0,0.0,0.0
+1286,Mississippi,Unknown,85 years and over,0.0,0.0,0.0,0.0,0.0
+1288,Mississippi,All Sexes,All Ages,2479.0,22926.0,2744.0,1275.0,55.0
+1299,Missouri,Male,50-64 years,136.0,4247.0,226.0,47.0,22.0
+1300,Missouri,Male,55-64 years,108.0,3412.0,185.0,35.0,19.0
+1301,Missouri,Male,65-74 years,207.0,4800.0,325.0,76.0,15.0
+1302,Missouri,Male,75-84 years,250.0,5263.0,402.0,95.0,20.0
+1303,Missouri,Male,85 years and over,220.0,4461.0,352.0,82.0,15.0
+1304,Missouri,Male,All Ages,838.0,21371.0,1380.0,309.0,89.0
+1315,Missouri,Female,50-64 years,84.0,2671.0,147.0,33.0,13.0
+1316,Missouri,Female,55-64 years,70.0,2143.0,116.0,26.0,10.0
+1317,Missouri,Female,65-74 years,144.0,3648.0,235.0,41.0,17.0
+1318,Missouri,Female,75-84 years,211.0,4884.0,327.0,77.0,32.0
+1319,Missouri,Female,85 years and over,404.0,7186.0,440.0,119.0,20.0
+1320,Missouri,Female,All Ages,866.0,19718.0,1194.0,278.0,91.0
+1323,Missouri,Unknown,1-4 years,0.0,0.0,0.0,0.0,0.0
+1324,Missouri,Unknown,5-14 years,0.0,0.0,0.0,0.0,0.0
+1325,Missouri,Unknown,15-24 years,0.0,0.0,0.0,0.0,0.0
+1326,Missouri,Unknown,18-29 years,0.0,0.0,0.0,0.0,0.0
+1327,Missouri,Unknown,25-34 years,0.0,0.0,0.0,0.0,0.0
+1328,Missouri,Unknown,30-49 years,0.0,0.0,0.0,0.0,0.0
+1329,Missouri,Unknown,35-44 years,0.0,0.0,0.0,0.0,0.0
+1330,Missouri,Unknown,45-54 years,0.0,0.0,0.0,0.0,0.0
+1331,Missouri,Unknown,50-64 years,0.0,0.0,0.0,0.0,0.0
+1332,Missouri,Unknown,55-64 years,0.0,0.0,0.0,0.0,0.0
+1333,Missouri,Unknown,65-74 years,0.0,0.0,0.0,0.0,0.0
+1334,Missouri,Unknown,75-84 years,0.0,0.0,0.0,0.0,0.0
+1335,Missouri,Unknown,85 years and over,0.0,0.0,0.0,0.0,0.0
+1337,Missouri,All Sexes,All Ages,1704.0,41090.0,2574.0,587.0,180.0
+1338,Montana,Male,Under 1 year,0.0,17.0,0.0,0.0,0.0
+1339,Montana,Male,0-17 years,0.0,37.0,0.0,0.0,0.0
+1342,Montana,Male,15-24 years,0.0,72.0,0.0,0.0,0.0
+1343,Montana,Male,18-29 years,0.0,104.0,0.0,0.0,0.0
+1344,Montana,Male,25-34 years,0.0,90.0,0.0,0.0,0.0
+1353,Montana,Male,All Ages,58.0,3540.0,183.0,15.0,17.0
+1354,Montana,Female,Under 1 year,0.0,15.0,0.0,0.0,0.0
+1355,Montana,Female,0-17 years,0.0,31.0,0.0,0.0,0.0
+1358,Montana,Female,15-24 years,0.0,17.0,0.0,0.0,0.0
+1359,Montana,Female,18-29 years,0.0,30.0,0.0,0.0,0.0
+1369,Montana,Female,All Ages,48.0,2817.0,132.0,14.0,17.0
+1370,Montana,Unknown,Under 1 year,0.0,0.0,0.0,0.0,0.0
+1371,Montana,Unknown,0-17 years,0.0,0.0,0.0,0.0,0.0
+1372,Montana,Unknown,1-4 years,0.0,0.0,0.0,0.0,0.0
+1373,Montana,Unknown,5-14 years,0.0,0.0,0.0,0.0,0.0
+1374,Montana,Unknown,15-24 years,0.0,0.0,0.0,0.0,0.0
+1375,Montana,Unknown,18-29 years,0.0,0.0,0.0,0.0,0.0
+1376,Montana,Unknown,25-34 years,0.0,0.0,0.0,0.0,0.0
+1377,Montana,Unknown,30-49 years,0.0,0.0,0.0,0.0,0.0
+1378,Montana,Unknown,35-44 years,0.0,0.0,0.0,0.0,0.0
+1379,Montana,Unknown,45-54 years,0.0,0.0,0.0,0.0,0.0
+1380,Montana,Unknown,50-64 years,0.0,0.0,0.0,0.0,0.0
+1381,Montana,Unknown,55-64 years,0.0,0.0,0.0,0.0,0.0
+1382,Montana,Unknown,65-74 years,0.0,0.0,0.0,0.0,0.0
+1383,Montana,Unknown,75-84 years,0.0,0.0,0.0,0.0,0.0
+1384,Montana,Unknown,85 years and over,0.0,0.0,0.0,0.0,0.0
+1385,Montana,Unknown,All Ages,0.0,0.0,0.0,0.0,0.0
+1386,Montana,All Sexes,All Ages,106.0,6357.0,315.0,29.0,34.0
+1387,Nebraska,Male,Under 1 year,0.0,50.0,0.0,0.0,0.0
+1388,Nebraska,Male,0-17 years,0.0,88.0,0.0,0.0,0.0
+1390,Nebraska,Male,5-14 years,0.0,21.0,0.0,0.0,0.0
+1402,Nebraska,Male,All Ages,227.0,5438.0,392.0,86.0,11.0
+1403,Nebraska,Female,Under 1 year,0.0,24.0,0.0,0.0,0.0
+1418,Nebraska,Female,All Ages,186.0,5357.0,400.0,71.0,17.0
+1419,Nebraska,Unknown,Under 1 year,0.0,0.0,0.0,0.0,0.0
+1420,Nebraska,Unknown,0-17 years,0.0,0.0,0.0,0.0,0.0
+1421,Nebraska,Unknown,1-4 years,0.0,0.0,0.0,0.0,0.0
+1422,Nebraska,Unknown,5-14 years,0.0,0.0,0.0,0.0,0.0
+1423,Nebraska,Unknown,15-24 years,0.0,0.0,0.0,0.0,0.0
+1424,Nebraska,Unknown,18-29 years,0.0,0.0,0.0,0.0,0.0
+1425,Nebraska,Unknown,25-34 years,0.0,0.0,0.0,0.0,0.0
+1426,Nebraska,Unknown,30-49 years,0.0,0.0,0.0,0.0,0.0
+1427,Nebraska,Unknown,35-44 years,0.0,0.0,0.0,0.0,0.0
+1428,Nebraska,Unknown,45-54 years,0.0,0.0,0.0,0.0,0.0
+1429,Nebraska,Unknown,50-64 years,0.0,0.0,0.0,0.0,0.0
+1430,Nebraska,Unknown,55-64 years,0.0,0.0,0.0,0.0,0.0
+1431,Nebraska,Unknown,65-74 years,0.0,0.0,0.0,0.0,0.0
+1432,Nebraska,Unknown,75-84 years,0.0,0.0,0.0,0.0,0.0
+1433,Nebraska,Unknown,85 years and over,0.0,0.0,0.0,0.0,0.0
+1434,Nebraska,Unknown,All Ages,0.0,0.0,0.0,0.0,0.0
+1435,Nebraska,All Sexes,All Ages,413.0,10795.0,792.0,157.0,28.0
+1443,Nevada,Male,30-49 years,59.0,884.0,71.0,42.0,0.0
+1444,Nevada,Male,35-44 years,26.0,415.0,27.0,17.0,0.0
+1451,Nevada,Male,All Ages,805.0,10024.0,1165.0,610.0,22.0
+1452,Nevada,Female,Under 1 year,0.0,37.0,0.0,0.0,0.0
+1453,Nevada,Female,0-17 years,0.0,62.0,0.0,0.0,0.0
+1467,Nevada,Female,All Ages,496.0,7790.0,806.0,373.0,19.0
+1468,Nevada,Unknown,Under 1 year,0.0,0.0,0.0,0.0,0.0
+1469,Nevada,Unknown,0-17 years,0.0,0.0,0.0,0.0,0.0
+1470,Nevada,Unknown,1-4 years,0.0,0.0,0.0,0.0,0.0
+1471,Nevada,Unknown,5-14 years,0.0,0.0,0.0,0.0,0.0
+1472,Nevada,Unknown,15-24 years,0.0,0.0,0.0,0.0,0.0
+1473,Nevada,Unknown,18-29 years,0.0,0.0,0.0,0.0,0.0
+1474,Nevada,Unknown,25-34 years,0.0,0.0,0.0,0.0,0.0
+1475,Nevada,Unknown,30-49 years,0.0,0.0,0.0,0.0,0.0
+1476,Nevada,Unknown,35-44 years,0.0,0.0,0.0,0.0,0.0
+1477,Nevada,Unknown,45-54 years,0.0,0.0,0.0,0.0,0.0
+1478,Nevada,Unknown,50-64 years,0.0,0.0,0.0,0.0,0.0
+1479,Nevada,Unknown,55-64 years,0.0,0.0,0.0,0.0,0.0
+1480,Nevada,Unknown,65-74 years,0.0,0.0,0.0,0.0,0.0
+1481,Nevada,Unknown,75-84 years,0.0,0.0,0.0,0.0,0.0
+1482,Nevada,Unknown,85 years and over,0.0,0.0,0.0,0.0,0.0
+1483,Nevada,Unknown,All Ages,0.0,0.0,0.0,0.0,0.0
+1484,Nevada,All Sexes,All Ages,1301.0,17814.0,1971.0,983.0,41.0
+1485,New Hampshire,Male,Under 1 year,0.0,17.0,0.0,0.0,0.0
+1491,New Hampshire,Male,25-34 years,0.0,107.0,0.0,0.0,0.0
+1500,New Hampshire,Male,All Ages,203.0,4201.0,263.0,72.0,12.0
+1501,New Hampshire,Female,Under 1 year,0.0,13.0,0.0,0.0,0.0
+1502,New Hampshire,Female,0-17 years,0.0,19.0,0.0,0.0,0.0
+1505,New Hampshire,Female,15-24 years,0.0,21.0,0.0,0.0,0.0
+1506,New Hampshire,Female,18-29 years,0.0,44.0,0.0,0.0,0.0
+1507,New Hampshire,Female,25-34 years,0.0,48.0,0.0,0.0,0.0
+1516,New Hampshire,Female,All Ages,214.0,3993.0,233.0,42.0,18.0
+1517,New Hampshire,Unknown,Under 1 year,0.0,0.0,0.0,0.0,0.0
+1518,New Hampshire,Unknown,0-17 years,0.0,0.0,0.0,0.0,0.0
+1519,New Hampshire,Unknown,1-4 years,0.0,0.0,0.0,0.0,0.0
+1520,New Hampshire,Unknown,5-14 years,0.0,0.0,0.0,0.0,0.0
+1521,New Hampshire,Unknown,15-24 years,0.0,0.0,0.0,0.0,0.0
+1522,New Hampshire,Unknown,18-29 years,0.0,0.0,0.0,0.0,0.0
+1523,New Hampshire,Unknown,25-34 years,0.0,0.0,0.0,0.0,0.0
+1524,New Hampshire,Unknown,30-49 years,0.0,0.0,0.0,0.0,0.0
+1525,New Hampshire,Unknown,35-44 years,0.0,0.0,0.0,0.0,0.0
+1526,New Hampshire,Unknown,45-54 years,0.0,0.0,0.0,0.0,0.0
+1527,New Hampshire,Unknown,50-64 years,0.0,0.0,0.0,0.0,0.0
+1528,New Hampshire,Unknown,55-64 years,0.0,0.0,0.0,0.0,0.0
+1529,New Hampshire,Unknown,65-74 years,0.0,0.0,0.0,0.0,0.0
+1530,New Hampshire,Unknown,75-84 years,0.0,0.0,0.0,0.0,0.0
+1531,New Hampshire,Unknown,85 years and over,0.0,0.0,0.0,0.0,0.0
+1532,New Hampshire,Unknown,All Ages,0.0,0.0,0.0,0.0,0.0
+1533,New Hampshire,All Sexes,All Ages,417.0,8194.0,496.0,114.0,30.0
+1536,New Jersey,Male,1-4 years,0.0,26.0,0.0,0.0,0.0
+1537,New Jersey,Male,5-14 years,0.0,17.0,0.0,0.0,0.0
+1539,New Jersey,Male,18-29 years,38.0,552.0,19.0,11.0,0.0
+1544,New Jersey,Male,50-64 years,1595.0,6146.0,1055.0,812.0,12.0
+1546,New Jersey,Male,65-74 years,1736.0,6585.0,1224.0,885.0,12.0
+1547,New Jersey,Male,75-84 years,1944.0,7709.0,1437.0,1004.0,20.0
+1548,New Jersey,Male,85 years and over,1787.0,8116.0,1389.0,870.0,18.0
+1549,New Jersey,Male,All Ages,7570.0,31713.0,5406.0,3803.0,71.0
+1563,New Jersey,Female,75-84 years,1747.0,7505.0,1236.0,860.0,12.0
+1564,New Jersey,Female,85 years and over,3011.0,14056.0,1943.0,1280.0,22.0
+1565,New Jersey,Female,All Ages,6643.0,30981.0,4504.0,3060.0,50.0
+1568,New Jersey,Unknown,1-4 years,0.0,0.0,0.0,0.0,0.0
+1569,New Jersey,Unknown,5-14 years,0.0,0.0,0.0,0.0,0.0
+1570,New Jersey,Unknown,15-24 years,0.0,0.0,0.0,0.0,0.0
+1571,New Jersey,Unknown,18-29 years,0.0,0.0,0.0,0.0,0.0
+1572,New Jersey,Unknown,25-34 years,0.0,0.0,0.0,0.0,0.0
+1573,New Jersey,Unknown,30-49 years,0.0,0.0,0.0,0.0,0.0
+1574,New Jersey,Unknown,35-44 years,0.0,0.0,0.0,0.0,0.0
+1575,New Jersey,Unknown,45-54 years,0.0,0.0,0.0,0.0,0.0
+1576,New Jersey,Unknown,50-64 years,0.0,0.0,0.0,0.0,0.0
+1577,New Jersey,Unknown,55-64 years,0.0,0.0,0.0,0.0,0.0
+1579,New Jersey,Unknown,75-84 years,0.0,0.0,0.0,0.0,0.0
+1580,New Jersey,Unknown,85 years and over,0.0,0.0,0.0,0.0,0.0
+1582,New Jersey,All Sexes,All Ages,14214.0,62696.0,9911.0,6864.0,121.0
+1589,New Mexico,Male,25-34 years,19.0,316.0,23.0,12.0,0.0
+1598,New Mexico,Male,All Ages,392.0,6539.0,503.0,174.0,16.0
+1599,New Mexico,Female,Under 1 year,0.0,20.0,0.0,0.0,0.0
+1614,New Mexico,Female,All Ages,363.0,5680.0,433.0,155.0,13.0
+1615,New Mexico,Unknown,Under 1 year,0.0,0.0,0.0,0.0,0.0
+1616,New Mexico,Unknown,0-17 years,0.0,0.0,0.0,0.0,0.0
+1617,New Mexico,Unknown,1-4 years,0.0,0.0,0.0,0.0,0.0
+1618,New Mexico,Unknown,5-14 years,0.0,0.0,0.0,0.0,0.0
+1619,New Mexico,Unknown,15-24 years,0.0,0.0,0.0,0.0,0.0
+1620,New Mexico,Unknown,18-29 years,0.0,0.0,0.0,0.0,0.0
+1621,New Mexico,Unknown,25-34 years,0.0,0.0,0.0,0.0,0.0
+1622,New Mexico,Unknown,30-49 years,0.0,0.0,0.0,0.0,0.0
+1623,New Mexico,Unknown,35-44 years,0.0,0.0,0.0,0.0,0.0
+1624,New Mexico,Unknown,45-54 years,0.0,0.0,0.0,0.0,0.0
+1625,New Mexico,Unknown,50-64 years,0.0,0.0,0.0,0.0,0.0
+1626,New Mexico,Unknown,55-64 years,0.0,0.0,0.0,0.0,0.0
+1627,New Mexico,Unknown,65-74 years,0.0,0.0,0.0,0.0,0.0
+1628,New Mexico,Unknown,75-84 years,0.0,0.0,0.0,0.0,0.0
+1629,New Mexico,Unknown,85 years and over,0.0,0.0,0.0,0.0,0.0
+1630,New Mexico,Unknown,All Ages,0.0,0.0,0.0,0.0,0.0
+1631,New Mexico,All Sexes,All Ages,755.0,12219.0,936.0,329.0,29.0
+1642,New York,Male,50-64 years,1150.0,6792.0,920.0,581.0,21.0
+1643,New York,Male,55-64 years,917.0,5326.0,736.0,458.0,18.0
+1644,New York,Male,65-74 years,1474.0,8004.0,1267.0,734.0,26.0
+1645,New York,Male,75-84 years,1617.0,9292.0,1510.0,821.0,26.0
+1646,New York,Male,85 years and over,1534.0,10281.0,1667.0,757.0,29.0
+1647,New York,Male,All Ages,6108.0,37957.0,5594.0,3047.0,111.0
+1654,New York,Female,25-34 years,19.0,362.0,16.0,10.0,0.0
+1658,New York,Female,50-64 years,527.0,4076.0,506.0,275.0,15.0
+1659,New York,Female,55-64 years,442.0,3349.0,428.0,234.0,13.0
+1660,New York,Female,65-74 years,833.0,5824.0,781.0,421.0,13.0
+1661,New York,Female,75-84 years,1345.0,8746.0,1238.0,652.0,19.0
+1662,New York,Female,85 years and over,2632.0,16984.0,2227.0,1122.0,44.0
+1663,New York,Female,All Ages,5461.0,37408.0,4856.0,2530.0,100.0
+1666,New York,Unknown,1-4 years,0.0,0.0,0.0,0.0,0.0
+1667,New York,Unknown,5-14 years,0.0,0.0,0.0,0.0,0.0
+1668,New York,Unknown,15-24 years,0.0,0.0,0.0,0.0,0.0
+1669,New York,Unknown,18-29 years,0.0,0.0,0.0,0.0,0.0
+1670,New York,Unknown,25-34 years,0.0,0.0,0.0,0.0,0.0
+1671,New York,Unknown,30-49 years,0.0,0.0,0.0,0.0,0.0
+1672,New York,Unknown,35-44 years,0.0,0.0,0.0,0.0,0.0
+1673,New York,Unknown,45-54 years,0.0,0.0,0.0,0.0,0.0
+1674,New York,Unknown,50-64 years,0.0,0.0,0.0,0.0,0.0
+1675,New York,Unknown,55-64 years,0.0,0.0,0.0,0.0,0.0
+1676,New York,Unknown,65-74 years,0.0,0.0,0.0,0.0,0.0
+1677,New York,Unknown,75-84 years,0.0,0.0,0.0,0.0,0.0
+1678,New York,Unknown,85 years and over,0.0,0.0,0.0,0.0,0.0
+1680,New York,All Sexes,All Ages,11569.0,75368.0,10450.0,5577.0,211.0
+1688,New York City,Male,30-49 years,858.0,2711.0,374.0,292.0,62.0
+1689,New York City,Male,35-44 years,401.0,1293.0,160.0,125.0,28.0
+1690,New York City,Male,45-54 years,993.0,2568.0,469.0,362.0,73.0
+1691,New York City,Male,50-64 years,2836.0,6988.0,1377.0,1050.0,192.0
+1692,New York City,Male,55-64 years,2226.0,5418.0,1078.0,822.0,149.0
+1693,New York City,Male,65-74 years,3268.0,7432.0,1630.0,1262.0,139.0
+1694,New York City,Male,75-84 years,3110.0,7616.0,1691.0,1239.0,106.0
+1695,New York City,Male,85 years and over,2114.0,6608.0,1269.0,831.0,78.0
+1696,New York City,Male,All Ages,12255.0,32125.0,6371.0,4690.0,586.0
+1704,New York City,Female,30-49 years,304.0,1145.0,139.0,93.0,23.0
+1706,New York City,Female,45-54 years,396.0,1243.0,197.0,142.0,33.0
+1707,New York City,Female,50-64 years,1302.0,3760.0,692.0,519.0,87.0
+1708,New York City,Female,55-64 years,1057.0,2978.0,559.0,425.0,68.0
+1709,New York City,Female,65-74 years,1761.0,4872.0,930.0,687.0,89.0
+1710,New York City,Female,75-84 years,2294.0,6606.0,1307.0,922.0,89.0
+1711,New York City,Female,85 years and over,2739.0,10943.0,1596.0,1025.0,89.0
+1712,New York City,Female,All Ages,8431.0,27677.0,4684.0,3257.0,381.0
+1713,New York City,Unknown,Under 1 year,0.0,0.0,0.0,0.0,0.0
+1715,New York City,Unknown,1-4 years,0.0,0.0,0.0,0.0,0.0
+1716,New York City,Unknown,5-14 years,0.0,0.0,0.0,0.0,0.0
+1718,New York City,Unknown,18-29 years,0.0,0.0,0.0,0.0,0.0
+1719,New York City,Unknown,25-34 years,0.0,0.0,0.0,0.0,0.0
+1720,New York City,Unknown,30-49 years,0.0,0.0,0.0,0.0,0.0
+1721,New York City,Unknown,35-44 years,0.0,0.0,0.0,0.0,0.0
+1722,New York City,Unknown,45-54 years,0.0,0.0,0.0,0.0,0.0
+1723,New York City,Unknown,50-64 years,0.0,0.0,0.0,0.0,0.0
+1724,New York City,Unknown,55-64 years,0.0,0.0,0.0,0.0,0.0
+1725,New York City,Unknown,65-74 years,0.0,0.0,0.0,0.0,0.0
+1726,New York City,Unknown,75-84 years,0.0,0.0,0.0,0.0,0.0
+1727,New York City,Unknown,85 years and over,0.0,0.0,0.0,0.0,0.0
+1729,New York City,All Sexes,All Ages,20686.0,59803.0,11055.0,7947.0,967.0
+1740,North Carolina,Male,50-64 years,222.0,5292.0,334.0,91.0,36.0
+1741,North Carolina,Male,55-64 years,169.0,4174.0,273.0,71.0,32.0
+1742,North Carolina,Male,65-74 years,279.0,6142.0,491.0,108.0,22.0
+1743,North Carolina,Male,75-84 years,337.0,6595.0,586.0,131.0,17.0
+1744,North Carolina,Male,85 years and over,259.0,5136.0,468.0,118.0,18.0
+1745,North Carolina,Male,All Ages,1188.0,26791.0,1982.0,481.0,106.0
+1755,North Carolina,Female,45-54 years,47.0,1230.0,71.0,22.0,11.0
+1756,North Carolina,Female,50-64 years,120.0,3484.0,234.0,50.0,28.0
+1757,North Carolina,Female,55-64 years,90.0,2766.0,189.0,34.0,20.0
+1758,North Carolina,Female,65-74 years,220.0,4623.0,354.0,93.0,31.0
+1759,North Carolina,Female,75-84 years,291.0,6435.0,466.0,100.0,20.0
+1760,North Carolina,Female,85 years and over,403.0,8999.0,601.0,126.0,29.0
+1761,North Carolina,Female,All Ages,1071.0,25498.0,1732.0,382.0,124.0
+1762,North Carolina,Unknown,Under 1 year,0.0,0.0,0.0,0.0,0.0
+1763,North Carolina,Unknown,0-17 years,0.0,0.0,0.0,0.0,0.0
+1764,North Carolina,Unknown,1-4 years,0.0,0.0,0.0,0.0,0.0
+1765,North Carolina,Unknown,5-14 years,0.0,0.0,0.0,0.0,0.0
+1766,North Carolina,Unknown,15-24 years,0.0,0.0,0.0,0.0,0.0
+1767,North Carolina,Unknown,18-29 years,0.0,0.0,0.0,0.0,0.0
+1770,North Carolina,Unknown,35-44 years,0.0,0.0,0.0,0.0,0.0
+1771,North Carolina,Unknown,45-54 years,0.0,0.0,0.0,0.0,0.0
+1774,North Carolina,Unknown,65-74 years,0.0,0.0,0.0,0.0,0.0
+1778,North Carolina,All Sexes,All Ages,2259.0,52294.0,3714.0,863.0,230.0
+1789,North Dakota,Male,50-64 years,17.0,401.0,41.0,10.0,0.0
+1790,North Dakota,Male,55-64 years,15.0,318.0,31.0,10.0,0.0
+1795,North Dakota,Female,Under 1 year,0.0,16.0,0.0,0.0,0.0
+1796,North Dakota,Female,0-17 years,0.0,26.0,0.0,0.0,0.0
+1799,North Dakota,Female,15-24 years,0.0,16.0,0.0,0.0,0.0
+1800,North Dakota,Female,18-29 years,0.0,22.0,0.0,0.0,0.0
+1810,North Dakota,Female,All Ages,81.0,2065.0,162.0,27.0,12.0
+1811,North Dakota,Unknown,Under 1 year,0.0,0.0,0.0,0.0,0.0
+1812,North Dakota,Unknown,0-17 years,0.0,0.0,0.0,0.0,0.0
+1813,North Dakota,Unknown,1-4 years,0.0,0.0,0.0,0.0,0.0
+1814,North Dakota,Unknown,5-14 years,0.0,0.0,0.0,0.0,0.0
+1815,North Dakota,Unknown,15-24 years,0.0,0.0,0.0,0.0,0.0
+1816,North Dakota,Unknown,18-29 years,0.0,0.0,0.0,0.0,0.0
+1817,North Dakota,Unknown,25-34 years,0.0,0.0,0.0,0.0,0.0
+1818,North Dakota,Unknown,30-49 years,0.0,0.0,0.0,0.0,0.0
+1819,North Dakota,Unknown,35-44 years,0.0,0.0,0.0,0.0,0.0
+1820,North Dakota,Unknown,45-54 years,0.0,0.0,0.0,0.0,0.0
+1821,North Dakota,Unknown,50-64 years,0.0,0.0,0.0,0.0,0.0
+1822,North Dakota,Unknown,55-64 years,0.0,0.0,0.0,0.0,0.0
+1823,North Dakota,Unknown,65-74 years,0.0,0.0,0.0,0.0,0.0
+1824,North Dakota,Unknown,75-84 years,0.0,0.0,0.0,0.0,0.0
+1825,North Dakota,Unknown,85 years and over,0.0,0.0,0.0,0.0,0.0
+1826,North Dakota,Unknown,All Ages,0.0,0.0,0.0,0.0,0.0
+1827,North Dakota,All Sexes,All Ages,175.0,4417.0,377.0,65.0,20.0
+1835,Ohio,Male,30-49 years,56.0,3479.0,110.0,23.0,12.0
+1837,Ohio,Male,45-54 years,78.0,2706.0,128.0,39.0,11.0
+1838,Ohio,Male,50-64 years,307.0,7797.0,472.0,139.0,34.0
+1839,Ohio,Male,55-64 years,252.0,6238.0,392.0,112.0,29.0
+1840,Ohio,Male,65-74 years,505.0,8931.0,675.0,219.0,34.0
+1841,Ohio,Male,75-84 years,574.0,9348.0,781.0,272.0,23.0
+1842,Ohio,Male,85 years and over,555.0,8850.0,707.0,224.0,13.0
+1843,Ohio,Male,All Ages,2001.0,39995.0,2762.0,878.0,123.0
+1846,Ohio,Female,1-4 years,0.0,35.0,0.0,0.0,0.0
+1854,Ohio,Female,50-64 years,156.0,5071.0,343.0,82.0,23.0
+1855,Ohio,Female,55-64 years,134.0,4018.0,281.0,69.0,19.0
+1856,Ohio,Female,65-74 years,290.0,6488.0,425.0,123.0,25.0
+1857,Ohio,Female,75-84 years,561.0,9332.0,679.0,225.0,32.0
+1858,Ohio,Female,85 years and over,864.0,14465.0,880.0,340.0,36.0
+1859,Ohio,Female,All Ages,1906.0,38014.0,2412.0,782.0,140.0
+1862,Ohio,Unknown,1-4 years,0.0,0.0,0.0,0.0,0.0
+1863,Ohio,Unknown,5-14 years,0.0,0.0,0.0,0.0,0.0
+1864,Ohio,Unknown,15-24 years,0.0,0.0,0.0,0.0,0.0
+1865,Ohio,Unknown,18-29 years,0.0,0.0,0.0,0.0,0.0
+1866,Ohio,Unknown,25-34 years,0.0,0.0,0.0,0.0,0.0
+1867,Ohio,Unknown,30-49 years,0.0,0.0,0.0,0.0,0.0
+1868,Ohio,Unknown,35-44 years,0.0,0.0,0.0,0.0,0.0
+1869,Ohio,Unknown,45-54 years,0.0,0.0,0.0,0.0,0.0
+1870,Ohio,Unknown,50-64 years,0.0,0.0,0.0,0.0,0.0
+1871,Ohio,Unknown,55-64 years,0.0,0.0,0.0,0.0,0.0
+1872,Ohio,Unknown,65-74 years,0.0,0.0,0.0,0.0,0.0
+1873,Ohio,Unknown,75-84 years,0.0,0.0,0.0,0.0,0.0
+1874,Ohio,Unknown,85 years and over,0.0,0.0,0.0,0.0,0.0
+1876,Ohio,All Sexes,All Ages,3907.0,78010.0,5174.0,1660.0,263.0
+1887,Oklahoma,Male,50-64 years,91.0,2696.0,203.0,29.0,19.0
+1888,Oklahoma,Male,55-64 years,78.0,2176.0,167.0,24.0,12.0
+1889,Oklahoma,Male,65-74 years,132.0,3012.0,312.0,48.0,11.0
+1890,Oklahoma,Male,75-84 years,136.0,3146.0,339.0,56.0,12.0
+1892,Oklahoma,Male,All Ages,503.0,12913.0,1208.0,197.0,52.0
+1893,Oklahoma,Female,Under 1 year,0.0,64.0,0.0,0.0,0.0
+1895,Oklahoma,Female,1-4 years,0.0,14.0,0.0,0.0,0.0
+1903,Oklahoma,Female,50-64 years,61.0,1737.0,167.0,24.0,15.0
+1904,Oklahoma,Female,55-64 years,49.0,1386.0,139.0,19.0,14.0
+1905,Oklahoma,Female,65-74 years,109.0,2334.0,243.0,42.0,14.0
+1906,Oklahoma,Female,75-84 years,104.0,2922.0,275.0,42.0,13.0
+1907,Oklahoma,Female,85 years and over,130.0,3760.0,259.0,44.0,12.0
+1908,Oklahoma,Female,All Ages,420.0,11609.0,979.0,154.0,60.0
+1909,Oklahoma,Unknown,Under 1 year,0.0,0.0,0.0,0.0,0.0
+1910,Oklahoma,Unknown,0-17 years,0.0,0.0,0.0,0.0,0.0
+1911,Oklahoma,Unknown,1-4 years,0.0,0.0,0.0,0.0,0.0
+1912,Oklahoma,Unknown,5-14 years,0.0,0.0,0.0,0.0,0.0
+1913,Oklahoma,Unknown,15-24 years,0.0,0.0,0.0,0.0,0.0
+1914,Oklahoma,Unknown,18-29 years,0.0,0.0,0.0,0.0,0.0
+1915,Oklahoma,Unknown,25-34 years,0.0,0.0,0.0,0.0,0.0
+1916,Oklahoma,Unknown,30-49 years,0.0,0.0,0.0,0.0,0.0
+1917,Oklahoma,Unknown,35-44 years,0.0,0.0,0.0,0.0,0.0
+1918,Oklahoma,Unknown,45-54 years,0.0,0.0,0.0,0.0,0.0
+1919,Oklahoma,Unknown,50-64 years,0.0,0.0,0.0,0.0,0.0
+1920,Oklahoma,Unknown,55-64 years,0.0,0.0,0.0,0.0,0.0
+1921,Oklahoma,Unknown,65-74 years,0.0,0.0,0.0,0.0,0.0
+1922,Oklahoma,Unknown,75-84 years,0.0,0.0,0.0,0.0,0.0
+1923,Oklahoma,Unknown,85 years and over,0.0,0.0,0.0,0.0,0.0
+1924,Oklahoma,Unknown,All Ages,0.0,0.0,0.0,0.0,0.0
+1925,Oklahoma,All Sexes,All Ages,923.0,24522.0,2187.0,351.0,112.0
+1926,Oregon,Male,Under 1 year,0.0,62.0,0.0,0.0,0.0
+1928,Oregon,Male,1-4 years,0.0,14.0,0.0,0.0,0.0
+1929,Oregon,Male,5-14 years,0.0,20.0,0.0,0.0,0.0
+1938,Oregon,Male,65-74 years,58.0,2745.0,142.0,23.0,11.0
+1941,Oregon,Male,All Ages,254.0,12042.0,574.0,88.0,38.0
+1942,Oregon,Female,Under 1 year,0.0,46.0,0.0,0.0,0.0
+1957,Oregon,Female,All Ages,195.0,10877.0,502.0,61.0,27.0
+1958,Oregon,Unknown,Under 1 year,0.0,0.0,0.0,0.0,0.0
+1959,Oregon,Unknown,0-17 years,0.0,0.0,0.0,0.0,0.0
+1960,Oregon,Unknown,1-4 years,0.0,0.0,0.0,0.0,0.0
+1961,Oregon,Unknown,5-14 years,0.0,0.0,0.0,0.0,0.0
+1962,Oregon,Unknown,15-24 years,0.0,0.0,0.0,0.0,0.0
+1963,Oregon,Unknown,18-29 years,0.0,0.0,0.0,0.0,0.0
+1964,Oregon,Unknown,25-34 years,0.0,0.0,0.0,0.0,0.0
+1965,Oregon,Unknown,30-49 years,0.0,0.0,0.0,0.0,0.0
+1966,Oregon,Unknown,35-44 years,0.0,0.0,0.0,0.0,0.0
+1970,Oregon,Unknown,65-74 years,0.0,0.0,0.0,0.0,0.0
+1971,Oregon,Unknown,75-84 years,0.0,0.0,0.0,0.0,0.0
+1972,Oregon,Unknown,85 years and over,0.0,0.0,0.0,0.0,0.0
+1974,Oregon,All Sexes,All Ages,449.0,22921.0,1076.0,149.0,65.0
+1985,Pennsylvania,Male,50-64 years,574.0,8029.0,513.0,241.0,28.0
+1986,Pennsylvania,Male,55-64 years,462.0,6385.0,422.0,195.0,21.0
+1987,Pennsylvania,Male,65-74 years,869.0,9532.0,831.0,349.0,22.0
+1988,Pennsylvania,Male,75-84 years,1129.0,11031.0,1114.0,446.0,34.0
+1989,Pennsylvania,Male,85 years and over,1244.0,11388.0,1035.0,444.0,24.0
+1990,Pennsylvania,Male,All Ages,3949.0,44743.0,3641.0,1537.0,115.0
+1991,Pennsylvania,Female,Under 1 year,0.0,177.0,0.0,0.0,0.0
+2001,Pennsylvania,Female,50-64 years,310.0,5028.0,340.0,124.0,28.0
+2002,Pennsylvania,Female,55-64 years,262.0,4036.0,280.0,104.0,26.0
+2003,Pennsylvania,Female,65-74 years,601.0,7038.0,565.0,238.0,13.0
+2004,Pennsylvania,Female,75-84 years,976.0,10462.0,809.0,368.0,45.0
+2005,Pennsylvania,Female,85 years and over,2207.0,19568.0,1468.0,604.0,43.0
+2006,Pennsylvania,Female,All Ages,4150.0,44478.0,3267.0,1358.0,138.0
+2009,Pennsylvania,Unknown,1-4 years,0.0,0.0,0.0,0.0,0.0
+2010,Pennsylvania,Unknown,5-14 years,0.0,0.0,0.0,0.0,0.0
+2011,Pennsylvania,Unknown,15-24 years,0.0,0.0,0.0,0.0,0.0
+2012,Pennsylvania,Unknown,18-29 years,0.0,0.0,0.0,0.0,0.0
+2013,Pennsylvania,Unknown,25-34 years,0.0,0.0,0.0,0.0,0.0
+2014,Pennsylvania,Unknown,30-49 years,0.0,0.0,0.0,0.0,0.0
+2015,Pennsylvania,Unknown,35-44 years,0.0,0.0,0.0,0.0,0.0
+2016,Pennsylvania,Unknown,45-54 years,0.0,0.0,0.0,0.0,0.0
+2017,Pennsylvania,Unknown,50-64 years,0.0,0.0,0.0,0.0,0.0
+2018,Pennsylvania,Unknown,55-64 years,0.0,0.0,0.0,0.0,0.0
+2019,Pennsylvania,Unknown,65-74 years,0.0,0.0,0.0,0.0,0.0
+2020,Pennsylvania,Unknown,75-84 years,0.0,0.0,0.0,0.0,0.0
+2021,Pennsylvania,Unknown,85 years and over,0.0,0.0,0.0,0.0,0.0
+2023,Pennsylvania,All Sexes,All Ages,8099.0,89223.0,6908.0,2895.0,253.0
+2024,Rhode Island,Male,Under 1 year,0.0,15.0,0.0,0.0,0.0
+2028,Rhode Island,Male,15-24 years,0.0,30.0,0.0,0.0,0.0
+2029,Rhode Island,Male,18-29 years,0.0,58.0,0.0,0.0,0.0
+2039,Rhode Island,Male,All Ages,468.0,3420.0,338.0,182.0,10.0
+2040,Rhode Island,Female,Under 1 year,0.0,18.0,0.0,0.0,0.0
+2055,Rhode Island,Female,All Ages,558.0,3568.0,349.0,213.0,15.0
+2056,Rhode Island,Unknown,Under 1 year,0.0,0.0,0.0,0.0,0.0
+2057,Rhode Island,Unknown,0-17 years,0.0,0.0,0.0,0.0,0.0
+2058,Rhode Island,Unknown,1-4 years,0.0,0.0,0.0,0.0,0.0
+2059,Rhode Island,Unknown,5-14 years,0.0,0.0,0.0,0.0,0.0
+2060,Rhode Island,Unknown,15-24 years,0.0,0.0,0.0,0.0,0.0
+2061,Rhode Island,Unknown,18-29 years,0.0,0.0,0.0,0.0,0.0
+2062,Rhode Island,Unknown,25-34 years,0.0,0.0,0.0,0.0,0.0
+2063,Rhode Island,Unknown,30-49 years,0.0,0.0,0.0,0.0,0.0
+2064,Rhode Island,Unknown,35-44 years,0.0,0.0,0.0,0.0,0.0
+2065,Rhode Island,Unknown,45-54 years,0.0,0.0,0.0,0.0,0.0
+2066,Rhode Island,Unknown,50-64 years,0.0,0.0,0.0,0.0,0.0
+2067,Rhode Island,Unknown,55-64 years,0.0,0.0,0.0,0.0,0.0
+2068,Rhode Island,Unknown,65-74 years,0.0,0.0,0.0,0.0,0.0
+2069,Rhode Island,Unknown,75-84 years,0.0,0.0,0.0,0.0,0.0
+2070,Rhode Island,Unknown,85 years and over,0.0,0.0,0.0,0.0,0.0
+2071,Rhode Island,Unknown,All Ages,0.0,0.0,0.0,0.0,0.0
+2072,Rhode Island,All Sexes,All Ages,1026.0,6988.0,687.0,395.0,25.0
+2076,South Carolina,Male,5-14 years,0.0,36.0,0.0,0.0,0.0
+2083,South Carolina,Male,50-64 years,207.0,3856.0,273.0,83.0,15.0
+2085,South Carolina,Male,65-74 years,344.0,4425.0,364.0,145.0,12.0
+2086,South Carolina,Male,75-84 years,444.0,4642.0,456.0,192.0,13.0
+2088,South Carolina,Male,All Ages,1358.0,18614.0,1488.0,568.0,51.0
+2089,South Carolina,Female,Under 1 year,0.0,86.0,0.0,0.0,0.0
+2102,South Carolina,Female,75-84 years,351.0,4094.0,366.0,151.0,12.0
+2103,South Carolina,Female,85 years and over,437.0,5478.0,431.0,172.0,11.0
+2104,South Carolina,Female,All Ages,1294.0,16599.0,1377.0,557.0,49.0
+2105,South Carolina,Unknown,Under 1 year,0.0,0.0,0.0,0.0,0.0
+2106,South Carolina,Unknown,0-17 years,0.0,0.0,0.0,0.0,0.0
+2107,South Carolina,Unknown,1-4 years,0.0,0.0,0.0,0.0,0.0
+2108,South Carolina,Unknown,5-14 years,0.0,0.0,0.0,0.0,0.0
+2109,South Carolina,Unknown,15-24 years,0.0,0.0,0.0,0.0,0.0
+2110,South Carolina,Unknown,18-29 years,0.0,0.0,0.0,0.0,0.0
+2111,South Carolina,Unknown,25-34 years,0.0,0.0,0.0,0.0,0.0
+2114,South Carolina,Unknown,45-54 years,0.0,0.0,0.0,0.0,0.0
+2115,South Carolina,Unknown,50-64 years,0.0,0.0,0.0,0.0,0.0
+2116,South Carolina,Unknown,55-64 years,0.0,0.0,0.0,0.0,0.0
+2117,South Carolina,Unknown,65-74 years,0.0,0.0,0.0,0.0,0.0
+2118,South Carolina,Unknown,75-84 years,0.0,0.0,0.0,0.0,0.0
+2119,South Carolina,Unknown,85 years and over,0.0,0.0,0.0,0.0,0.0
+2121,South Carolina,All Sexes,All Ages,2652.0,35214.0,2865.0,1125.0,100.0
+2122,South Dakota,Male,Under 1 year,0.0,16.0,0.0,0.0,0.0
+2126,South Dakota,Male,15-24 years,0.0,40.0,0.0,0.0,0.0
+2137,South Dakota,Male,All Ages,102.0,2680.0,240.0,51.0,17.0
+2138,South Dakota,Female,Under 1 year,0.0,21.0,0.0,0.0,0.0
+2153,South Dakota,Female,All Ages,98.0,2409.0,170.0,37.0,10.0
+2154,South Dakota,Unknown,Under 1 year,0.0,0.0,0.0,0.0,0.0
+2155,South Dakota,Unknown,0-17 years,0.0,0.0,0.0,0.0,0.0
+2156,South Dakota,Unknown,1-4 years,0.0,0.0,0.0,0.0,0.0
+2157,South Dakota,Unknown,5-14 years,0.0,0.0,0.0,0.0,0.0
+2158,South Dakota,Unknown,15-24 years,0.0,0.0,0.0,0.0,0.0
+2159,South Dakota,Unknown,18-29 years,0.0,0.0,0.0,0.0,0.0
+2160,South Dakota,Unknown,25-34 years,0.0,0.0,0.0,0.0,0.0
+2161,South Dakota,Unknown,30-49 years,0.0,0.0,0.0,0.0,0.0
+2162,South Dakota,Unknown,35-44 years,0.0,0.0,0.0,0.0,0.0
+2163,South Dakota,Unknown,45-54 years,0.0,0.0,0.0,0.0,0.0
+2164,South Dakota,Unknown,50-64 years,0.0,0.0,0.0,0.0,0.0
+2165,South Dakota,Unknown,55-64 years,0.0,0.0,0.0,0.0,0.0
+2166,South Dakota,Unknown,65-74 years,0.0,0.0,0.0,0.0,0.0
+2167,South Dakota,Unknown,75-84 years,0.0,0.0,0.0,0.0,0.0
+2168,South Dakota,Unknown,85 years and over,0.0,0.0,0.0,0.0,0.0
+2169,South Dakota,Unknown,All Ages,0.0,0.0,0.0,0.0,0.0
+2170,South Dakota,All Sexes,All Ages,200.0,5089.0,410.0,88.0,27.0
+2181,Tennessee,Male,50-64 years,213.0,5672.0,464.0,120.0,19.0
+2182,Tennessee,Male,55-64 years,176.0,4461.0,368.0,98.0,14.0
+2183,Tennessee,Male,65-74 years,255.0,5945.0,528.0,120.0,25.0
+2184,Tennessee,Male,75-84 years,312.0,6194.0,621.0,149.0,12.0
+2186,Tennessee,Male,All Ages,1035.0,25883.0,2162.0,504.0,66.0
+2194,Tennessee,Female,30-49 years,42.0,1518.0,84.0,23.0,11.0
+2197,Tennessee,Female,50-64 years,123.0,3796.0,310.0,75.0,13.0
+2198,Tennessee,Female,55-64 years,104.0,3015.0,259.0,66.0,11.0
+2199,Tennessee,Female,65-74 years,169.0,4596.0,415.0,70.0,12.0
+2200,Tennessee,Female,75-84 years,216.0,5686.0,496.0,92.0,18.0
+2201,Tennessee,Female,85 years and over,224.0,7242.0,468.0,81.0,12.0
+2202,Tennessee,Female,All Ages,780.0,23398.0,1787.0,341.0,68.0
+2203,Tennessee,Unknown,Under 1 year,0.0,0.0,0.0,0.0,0.0
+2204,Tennessee,Unknown,0-17 years,0.0,0.0,0.0,0.0,0.0
+2205,Tennessee,Unknown,1-4 years,0.0,0.0,0.0,0.0,0.0
+2206,Tennessee,Unknown,5-14 years,0.0,0.0,0.0,0.0,0.0
+2207,Tennessee,Unknown,15-24 years,0.0,0.0,0.0,0.0,0.0
+2208,Tennessee,Unknown,18-29 years,0.0,0.0,0.0,0.0,0.0
+2209,Tennessee,Unknown,25-34 years,0.0,0.0,0.0,0.0,0.0
+2210,Tennessee,Unknown,30-49 years,0.0,0.0,0.0,0.0,0.0
+2211,Tennessee,Unknown,35-44 years,0.0,0.0,0.0,0.0,0.0
+2212,Tennessee,Unknown,45-54 years,0.0,0.0,0.0,0.0,0.0
+2213,Tennessee,Unknown,50-64 years,0.0,0.0,0.0,0.0,0.0
+2214,Tennessee,Unknown,55-64 years,0.0,0.0,0.0,0.0,0.0
+2215,Tennessee,Unknown,65-74 years,0.0,0.0,0.0,0.0,0.0
+2216,Tennessee,Unknown,75-84 years,0.0,0.0,0.0,0.0,0.0
+2217,Tennessee,Unknown,85 years and over,0.0,0.0,0.0,0.0,0.0
+2218,Tennessee,Unknown,All Ages,0.0,0.0,0.0,0.0,0.0
+2219,Tennessee,All Sexes,All Ages,1815.0,49281.0,3949.0,845.0,134.0
+2224,Texas,Male,15-24 years,22.0,1467.0,41.0,10.0,0.0
+2227,Texas,Male,30-49 years,683.0,7048.0,536.0,311.0,16.0
+2229,Texas,Male,45-54 years,756.0,6052.0,597.0,353.0,18.0
+2230,Texas,Male,50-64 years,1922.0,16257.0,1811.0,945.0,49.0
+2231,Texas,Male,55-64 years,1477.0,12718.0,1439.0,732.0,38.0
+2232,Texas,Male,65-74 years,2109.0,17368.0,2231.0,1127.0,33.0
+2233,Texas,Male,75-84 years,1999.0,17989.0,2249.0,1037.0,43.0
+2234,Texas,Male,85 years and over,1327.0,14355.0,1607.0,661.0,26.0
+2235,Texas,Male,All Ages,8118.0,76566.0,8545.0,4114.0,173.0
+2243,Texas,Female,30-49 years,322.0,3736.0,330.0,155.0,24.0
+2244,Texas,Female,35-44 years,151.0,1740.0,159.0,69.0,14.0
+2245,Texas,Female,45-54 years,368.0,3507.0,385.0,189.0,21.0
+2246,Texas,Female,50-64 years,1040.0,9947.0,1174.0,546.0,45.0
+2247,Texas,Female,55-64 years,812.0,7893.0,930.0,432.0,32.0
+2248,Texas,Female,65-74 years,1295.0,12363.0,1455.0,664.0,43.0
+2249,Texas,Female,75-84 years,1405.0,16252.0,1716.0,740.0,37.0
+2250,Texas,Female,85 years and over,1624.0,21898.0,1856.0,723.0,31.0
+2251,Texas,Female,All Ages,5726.0,65871.0,6581.0,2846.0,188.0
+2254,Texas,Unknown,1-4 years,0.0,0.0,0.0,0.0,0.0
+2255,Texas,Unknown,5-14 years,0.0,0.0,0.0,0.0,0.0
+2256,Texas,Unknown,15-24 years,0.0,0.0,0.0,0.0,0.0
+2257,Texas,Unknown,18-29 years,0.0,0.0,0.0,0.0,0.0
+2258,Texas,Unknown,25-34 years,0.0,0.0,0.0,0.0,0.0
+2259,Texas,Unknown,30-49 years,0.0,0.0,0.0,0.0,0.0
+2260,Texas,Unknown,35-44 years,0.0,0.0,0.0,0.0,0.0
+2261,Texas,Unknown,45-54 years,0.0,0.0,0.0,0.0,0.0
+2264,Texas,Unknown,65-74 years,0.0,0.0,0.0,0.0,0.0
+2266,Texas,Unknown,85 years and over,0.0,0.0,0.0,0.0,0.0
+2268,Texas,All Sexes,All Ages,13844.0,142440.0,15126.0,6960.0,361.0
+2271,Utah,Male,1-4 years,0.0,12.0,0.0,0.0,0.0
+2279,Utah,Male,50-64 years,65.0,1125.0,82.0,34.0,10.0
+2284,Utah,Male,All Ages,266.0,6643.0,418.0,105.0,27.0
+2287,Utah,Female,1-4 years,0.0,10.0,0.0,0.0,0.0
+2288,Utah,Female,5-14 years,0.0,19.0,0.0,0.0,0.0
+2300,Utah,Female,All Ages,162.0,6018.0,312.0,47.0,13.0
+2301,Utah,Unknown,Under 1 year,0.0,0.0,0.0,0.0,0.0
+2302,Utah,Unknown,0-17 years,0.0,0.0,0.0,0.0,0.0
+2303,Utah,Unknown,1-4 years,0.0,0.0,0.0,0.0,0.0
+2304,Utah,Unknown,5-14 years,0.0,0.0,0.0,0.0,0.0
+2305,Utah,Unknown,15-24 years,0.0,0.0,0.0,0.0,0.0
+2306,Utah,Unknown,18-29 years,0.0,0.0,0.0,0.0,0.0
+2307,Utah,Unknown,25-34 years,0.0,0.0,0.0,0.0,0.0
+2308,Utah,Unknown,30-49 years,0.0,0.0,0.0,0.0,0.0
+2309,Utah,Unknown,35-44 years,0.0,0.0,0.0,0.0,0.0
+2310,Utah,Unknown,45-54 years,0.0,0.0,0.0,0.0,0.0
+2311,Utah,Unknown,50-64 years,0.0,0.0,0.0,0.0,0.0
+2312,Utah,Unknown,55-64 years,0.0,0.0,0.0,0.0,0.0
+2313,Utah,Unknown,65-74 years,0.0,0.0,0.0,0.0,0.0
+2314,Utah,Unknown,75-84 years,0.0,0.0,0.0,0.0,0.0
+2315,Utah,Unknown,85 years and over,0.0,0.0,0.0,0.0,0.0
+2316,Utah,Unknown,All Ages,0.0,0.0,0.0,0.0,0.0
+2317,Utah,All Sexes,All Ages,428.0,12661.0,730.0,152.0,40.0
+2322,Vermont,Male,15-24 years,0.0,16.0,0.0,0.0,0.0
+2323,Vermont,Male,18-29 years,0.0,31.0,0.0,0.0,0.0
+2324,Vermont,Male,25-34 years,0.0,46.0,0.0,0.0,0.0
+2333,Vermont,Male,All Ages,35.0,1948.0,109.0,12.0,10.0
+2336,Vermont,Female,1-4 years,0.0,0.0,0.0,0.0,0.0
+2338,Vermont,Female,15-24 years,0.0,10.0,0.0,0.0,0.0
+2339,Vermont,Female,18-29 years,0.0,18.0,0.0,0.0,0.0
+2340,Vermont,Female,25-34 years,0.0,17.0,0.0,0.0,0.0
+2350,Vermont,Unknown,Under 1 year,0.0,0.0,0.0,0.0,0.0
+2351,Vermont,Unknown,0-17 years,0.0,0.0,0.0,0.0,0.0
+2352,Vermont,Unknown,1-4 years,0.0,0.0,0.0,0.0,0.0
+2353,Vermont,Unknown,5-14 years,0.0,0.0,0.0,0.0,0.0
+2354,Vermont,Unknown,15-24 years,0.0,0.0,0.0,0.0,0.0
+2355,Vermont,Unknown,18-29 years,0.0,0.0,0.0,0.0,0.0
+2356,Vermont,Unknown,25-34 years,0.0,0.0,0.0,0.0,0.0
+2357,Vermont,Unknown,30-49 years,0.0,0.0,0.0,0.0,0.0
+2358,Vermont,Unknown,35-44 years,0.0,0.0,0.0,0.0,0.0
+2359,Vermont,Unknown,45-54 years,0.0,0.0,0.0,0.0,0.0
+2360,Vermont,Unknown,50-64 years,0.0,0.0,0.0,0.0,0.0
+2361,Vermont,Unknown,55-64 years,0.0,0.0,0.0,0.0,0.0
+2362,Vermont,Unknown,65-74 years,0.0,0.0,0.0,0.0,0.0
+2363,Vermont,Unknown,75-84 years,0.0,0.0,0.0,0.0,0.0
+2364,Vermont,Unknown,85 years and over,0.0,0.0,0.0,0.0,0.0
+2365,Vermont,Unknown,All Ages,0.0,0.0,0.0,0.0,0.0
+2366,Vermont,All Sexes,All Ages,59.0,3714.0,181.0,14.0,16.0
+2377,Virginia,Male,50-64 years,253.0,4739.0,287.0,120.0,12.0
+2379,Virginia,Male,65-74 years,339.0,5189.0,364.0,150.0,19.0
+2380,Virginia,Male,75-84 years,412.0,5938.0,467.0,160.0,10.0
+2381,Virginia,Male,85 years and over,361.0,5171.0,375.0,111.0,12.0
+2382,Virginia,Male,All Ages,1437.0,23884.0,1565.0,574.0,62.0
+2393,Virginia,Female,50-64 years,136.0,3057.0,202.0,61.0,13.0
+2394,Virginia,Female,55-64 years,107.0,2438.0,163.0,48.0,12.0
+2396,Virginia,Female,75-84 years,359.0,5705.0,338.0,115.0,12.0
+2397,Virginia,Female,85 years and over,623.0,8468.0,474.0,143.0,15.0
+2398,Virginia,Female,All Ages,1405.0,22651.0,1337.0,439.0,52.0
+2401,Virginia,Unknown,1-4 years,0.0,0.0,0.0,0.0,0.0
+2402,Virginia,Unknown,5-14 years,0.0,0.0,0.0,0.0,0.0
+2403,Virginia,Unknown,15-24 years,0.0,0.0,0.0,0.0,0.0
+2404,Virginia,Unknown,18-29 years,0.0,0.0,0.0,0.0,0.0
+2405,Virginia,Unknown,25-34 years,0.0,0.0,0.0,0.0,0.0
+2406,Virginia,Unknown,30-49 years,0.0,0.0,0.0,0.0,0.0
+2407,Virginia,Unknown,35-44 years,0.0,0.0,0.0,0.0,0.0
+2410,Virginia,Unknown,55-64 years,0.0,0.0,0.0,0.0,0.0
+2411,Virginia,Unknown,65-74 years,0.0,0.0,0.0,0.0,0.0
+2412,Virginia,Unknown,75-84 years,0.0,0.0,0.0,0.0,0.0
+2415,Virginia,All Sexes,All Ages,2843.0,46538.0,2903.0,1014.0,114.0
+2418,Washington,Male,1-4 years,0.0,25.0,0.0,0.0,0.0
+2426,Washington,Male,50-64 years,148.0,3584.0,244.0,85.0,15.0
+2427,Washington,Male,55-64 years,120.0,2804.0,203.0,73.0,12.0
+2428,Washington,Male,65-74 years,202.0,4365.0,381.0,108.0,21.0
+2429,Washington,Male,75-84 years,256.0,4738.0,403.0,138.0,10.0
+2430,Washington,Male,85 years and over,298.0,4589.0,404.0,157.0,10.0
+2431,Washington,Male,All Ages,958.0,19565.0,1513.0,516.0,64.0
+2445,Washington,Female,75-84 years,219.0,4243.0,318.0,121.0,17.0
+2447,Washington,Female,All Ages,807.0,17838.0,1249.0,384.0,49.0
+2448,Washington,Unknown,Under 1 year,0.0,0.0,0.0,0.0,0.0
+2449,Washington,Unknown,0-17 years,0.0,0.0,0.0,0.0,0.0
+2450,Washington,Unknown,1-4 years,0.0,0.0,0.0,0.0,0.0
+2451,Washington,Unknown,5-14 years,0.0,0.0,0.0,0.0,0.0
+2452,Washington,Unknown,15-24 years,0.0,0.0,0.0,0.0,0.0
+2453,Washington,Unknown,18-29 years,0.0,0.0,0.0,0.0,0.0
+2454,Washington,Unknown,25-34 years,0.0,0.0,0.0,0.0,0.0
+2456,Washington,Unknown,35-44 years,0.0,0.0,0.0,0.0,0.0
+2458,Washington,Unknown,50-64 years,0.0,0.0,0.0,0.0,0.0
+2459,Washington,Unknown,55-64 years,0.0,0.0,0.0,0.0,0.0
+2460,Washington,Unknown,65-74 years,0.0,0.0,0.0,0.0,0.0
+2461,Washington,Unknown,75-84 years,0.0,0.0,0.0,0.0,0.0
+2462,Washington,Unknown,85 years and over,0.0,0.0,0.0,0.0,0.0
+2464,Washington,All Sexes,All Ages,1765.0,37404.0,2762.0,900.0,113.0
+2468,West Virginia,Male,5-14 years,0.0,14.0,0.0,0.0,0.0
+2469,West Virginia,Male,15-24 years,0.0,72.0,0.0,0.0,0.0
+2480,West Virginia,Male,All Ages,88.0,6830.0,481.0,39.0,31.0
+2481,West Virginia,Female,Under 1 year,0.0,16.0,0.0,0.0,0.0
+2496,West Virginia,Female,All Ages,105.0,5951.0,430.0,28.0,27.0
+2497,West Virginia,Unknown,Under 1 year,0.0,0.0,0.0,0.0,0.0
+2498,West Virginia,Unknown,0-17 years,0.0,0.0,0.0,0.0,0.0
+2499,West Virginia,Unknown,1-4 years,0.0,0.0,0.0,0.0,0.0
+2500,West Virginia,Unknown,5-14 years,0.0,0.0,0.0,0.0,0.0
+2501,West Virginia,Unknown,15-24 years,0.0,0.0,0.0,0.0,0.0
+2502,West Virginia,Unknown,18-29 years,0.0,0.0,0.0,0.0,0.0
+2503,West Virginia,Unknown,25-34 years,0.0,0.0,0.0,0.0,0.0
+2504,West Virginia,Unknown,30-49 years,0.0,0.0,0.0,0.0,0.0
+2505,West Virginia,Unknown,35-44 years,0.0,0.0,0.0,0.0,0.0
+2506,West Virginia,Unknown,45-54 years,0.0,0.0,0.0,0.0,0.0
+2513,West Virginia,All Sexes,All Ages,193.0,12785.0,911.0,67.0,58.0
+2516,Wisconsin,Male,1-4 years,0.0,11.0,0.0,0.0,0.0
+2524,Wisconsin,Male,50-64 years,104.0,3265.0,123.0,17.0,16.0
+2525,Wisconsin,Male,55-64 years,81.0,2595.0,103.0,12.0,10.0
+2526,Wisconsin,Male,65-74 years,162.0,3907.0,201.0,37.0,20.0
+2527,Wisconsin,Male,75-84 years,160.0,4304.0,259.0,35.0,18.0
+2528,Wisconsin,Male,85 years and over,165.0,4610.0,290.0,44.0,14.0
+2529,Wisconsin,Male,All Ages,628.0,17942.0,910.0,138.0,79.0
+2532,Wisconsin,Female,1-4 years,0.0,19.0,0.0,0.0,0.0
+2533,Wisconsin,Female,5-14 years,0.0,29.0,0.0,0.0,0.0
+2540,Wisconsin,Female,50-64 years,66.0,2019.0,116.0,12.0,13.0
+2541,Wisconsin,Female,55-64 years,52.0,1602.0,97.0,11.0,10.0
+2543,Wisconsin,Female,75-84 years,141.0,3915.0,195.0,23.0,19.0
+2544,Wisconsin,Female,85 years and over,203.0,7313.0,341.0,34.0,22.0
+2545,Wisconsin,Female,All Ages,530.0,16902.0,823.0,89.0,71.0
+2546,Wisconsin,Unknown,Under 1 year,0.0,0.0,0.0,0.0,0.0
+2547,Wisconsin,Unknown,0-17 years,0.0,0.0,0.0,0.0,0.0
+2548,Wisconsin,Unknown,1-4 years,0.0,0.0,0.0,0.0,0.0
+2549,Wisconsin,Unknown,5-14 years,0.0,0.0,0.0,0.0,0.0
+2550,Wisconsin,Unknown,15-24 years,0.0,0.0,0.0,0.0,0.0
+2551,Wisconsin,Unknown,18-29 years,0.0,0.0,0.0,0.0,0.0
+2552,Wisconsin,Unknown,25-34 years,0.0,0.0,0.0,0.0,0.0
+2553,Wisconsin,Unknown,30-49 years,0.0,0.0,0.0,0.0,0.0
+2554,Wisconsin,Unknown,35-44 years,0.0,0.0,0.0,0.0,0.0
+2555,Wisconsin,Unknown,45-54 years,0.0,0.0,0.0,0.0,0.0
+2556,Wisconsin,Unknown,50-64 years,0.0,0.0,0.0,0.0,0.0
+2557,Wisconsin,Unknown,55-64 years,0.0,0.0,0.0,0.0,0.0
+2558,Wisconsin,Unknown,65-74 years,0.0,0.0,0.0,0.0,0.0
+2559,Wisconsin,Unknown,75-84 years,0.0,0.0,0.0,0.0,0.0
+2560,Wisconsin,Unknown,85 years and over,0.0,0.0,0.0,0.0,0.0
+2561,Wisconsin,Unknown,All Ages,0.0,0.0,0.0,0.0,0.0
+2562,Wisconsin,All Sexes,All Ages,1158.0,34844.0,1733.0,227.0,150.0
+2564,Wyoming,Male,0-17 years,0.0,22.0,0.0,0.0,0.0
+2567,Wyoming,Male,15-24 years,0.0,25.0,0.0,0.0,0.0
+2568,Wyoming,Male,18-29 years,0.0,47.0,0.0,0.0,0.0
+2580,Wyoming,Female,0-17 years,0.0,13.0,0.0,0.0,0.0
+2581,Wyoming,Female,1-4 years,0.0,0.0,0.0,0.0,0.0
+2595,Wyoming,Unknown,Under 1 year,0.0,0.0,0.0,0.0,0.0
+2596,Wyoming,Unknown,0-17 years,0.0,0.0,0.0,0.0,0.0
+2597,Wyoming,Unknown,1-4 years,0.0,0.0,0.0,0.0,0.0
+2598,Wyoming,Unknown,5-14 years,0.0,0.0,0.0,0.0,0.0
+2599,Wyoming,Unknown,15-24 years,0.0,0.0,0.0,0.0,0.0
+2600,Wyoming,Unknown,18-29 years,0.0,0.0,0.0,0.0,0.0
+2601,Wyoming,Unknown,25-34 years,0.0,0.0,0.0,0.0,0.0
+2602,Wyoming,Unknown,30-49 years,0.0,0.0,0.0,0.0,0.0
+2603,Wyoming,Unknown,35-44 years,0.0,0.0,0.0,0.0,0.0
+2604,Wyoming,Unknown,45-54 years,0.0,0.0,0.0,0.0,0.0
+2605,Wyoming,Unknown,50-64 years,0.0,0.0,0.0,0.0,0.0
+2606,Wyoming,Unknown,55-64 years,0.0,0.0,0.0,0.0,0.0
+2607,Wyoming,Unknown,65-74 years,0.0,0.0,0.0,0.0,0.0
+2608,Wyoming,Unknown,75-84 years,0.0,0.0,0.0,0.0,0.0
+2609,Wyoming,Unknown,85 years and over,0.0,0.0,0.0,0.0,0.0
+2610,Wyoming,Unknown,All Ages,0.0,0.0,0.0,0.0,0.0
+2612,Puerto Rico,Male,Under 1 year,0.0,36.0,0.0,0.0,0.0
+2613,Puerto Rico,Male,0-17 years,0.0,61.0,0.0,0.0,0.0
+2627,Puerto Rico,Male,All Ages,264.0,8747.0,1099.0,162.0,24.0
+2628,Puerto Rico,Female,Under 1 year,0.0,35.0,0.0,0.0,0.0
+2641,Puerto Rico,Female,75-84 years,47.0,2074.0,296.0,28.0,12.0
+2642,Puerto Rico,Female,85 years and over,43.0,3140.0,375.0,21.0,20.0
+2643,Puerto Rico,Female,All Ages,172.0,7628.0,961.0,96.0,43.0
+2644,Puerto Rico,Unknown,Under 1 year,0.0,0.0,0.0,0.0,0.0
+2645,Puerto Rico,Unknown,0-17 years,0.0,0.0,0.0,0.0,0.0
+2646,Puerto Rico,Unknown,1-4 years,0.0,0.0,0.0,0.0,0.0
+2647,Puerto Rico,Unknown,5-14 years,0.0,0.0,0.0,0.0,0.0
+2648,Puerto Rico,Unknown,15-24 years,0.0,0.0,0.0,0.0,0.0
+2649,Puerto Rico,Unknown,18-29 years,0.0,0.0,0.0,0.0,0.0
+2652,Puerto Rico,Unknown,35-44 years,0.0,0.0,0.0,0.0,0.0
+2653,Puerto Rico,Unknown,45-54 years,0.0,0.0,0.0,0.0,0.0
+2654,Puerto Rico,Unknown,55-64 years,0.0,0.0,0.0,0.0,0.0
+2655,Puerto Rico,Unknown,65-74 years,0.0,0.0,0.0,0.0,0.0
+2656,Puerto Rico,Unknown,75-84 years,0.0,0.0,0.0,0.0,0.0
+2657,Puerto Rico,Unknown,85 years and over,0.0,0.0,0.0,0.0,0.0
+2659,Puerto Rico,All Sexes,All Ages,436.0,16376.0,2060.0,258.0,67.0
